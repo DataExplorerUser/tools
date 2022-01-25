@@ -29,10 +29,14 @@
 - https://www.readme-templates.com/
 
 
-
-
 # Interesting Python projects
 - https://github.com/taichi-dev/taichi
+
+# Data analysis
+- https://dmnfarrell.github.io/tablexplore/
+
+# Data visualisation
+- 
 
 # Other resources
 - https://thebetterwebmovement.com/choosing-best-time-post-to-reddit/
