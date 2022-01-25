@@ -17,5 +17,6 @@
 - Showcase
 - Issues
 - API documentation
+- Link to demo.py
 - Examples
 - Apps made with Dear PyGui
