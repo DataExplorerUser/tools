@@ -20,3 +20,6 @@
 - Link to demo.py
 - Examples
 - Apps made with Dear PyGui
+- Discord
+- Reddit Python GUI
+- Reddit DearPyGui
