@@ -4,6 +4,8 @@
 - Krita
 - Inkscape
 - EasyGif
+- ScreenToGif
+- ShareX
 - Screen recording: Open Broadcaster Software (OBS)
 - Lossless video editing
 - PyCharm
