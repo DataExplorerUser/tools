@@ -16,6 +16,7 @@
 
 - Showcase
 - Issues
+- Stargazers
 - API documentation
 - Link to demo.py
 - Examples
