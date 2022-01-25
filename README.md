@@ -23,3 +23,16 @@
 - Discord
 - Reddit Python GUI
 - Reddit DearPyGui
+
+# ReadMe examples and ideas
+- https://github.com/appsmithorg/appsmith
+- https://www.readme-templates.com/
+
+
+
+
+# Interesting Python projects
+- https://github.com/taichi-dev/taichi
+
+# Other resources
+- https://thebetterwebmovement.com/choosing-best-time-post-to-reddit/
