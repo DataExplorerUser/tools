@@ -20,9 +20,11 @@
 - Link to demo.py
 - Examples
 - Apps made with Dear PyGui
-- Discord
+- Discord: https://discord.gg/tyE7Gu4
 - Reddit Python GUI
 - Reddit DearPyGui
+- https://star-history.com/#hoffstadt/DearPyGui&Date
+- https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&Date
 
 # ReadMe examples and ideas
 - https://github.com/appsmithorg/appsmith
