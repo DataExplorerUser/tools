@@ -7,7 +7,7 @@
 - ScreenToGif
 - ShareX
 - Screen recording: Open Broadcaster Software (OBS)
-- Lossless video editing
+- Lossless video editing: https://github.com/ozmartian/vidcutter
 - PyCharm
 - Sourcery
 - Git
@@ -34,6 +34,9 @@
 
 # Interesting Python projects
 - https://github.com/taichi-dev/taichi
+- https://blog.streamlit.io/how-to-master-streamlit-for-data-science/
+- https://www.youtube.com/watch?v=5za5I3kUuOI
+- 
 
 # Data analysis
 - https://dmnfarrell.github.io/tablexplore/
@@ -43,3 +46,49 @@
 
 # Other resources
 - https://thebetterwebmovement.com/choosing-best-time-post-to-reddit/
+- 
+https://superset.apache.org/docs/intro/
+https://datavizproject.com/
+https://perspective.finos.org/
+
+https://www.youtube.com/watch?v=Ekp2mfxQSzw
+
+https://potocpav.github.io/python-concur-docs/homepage.html
+https://www.youtube.com/playlist?list=PL8ncIDIP_e6v1dV1xVacsH4qjuoPMMnDe
+https://github.com/lux-org/lux
+https://microsoft.github.io/SandDance/
+https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
+
+
+https://deepai.org/publication/geoplotlib-a-python-toolbox-for-visualizing-geographical-data
+http://kartograph.org/
+
+https://processing.org/examples/
+http://square.github.io/crossfilter/
+http://polymaps.org/
+http://kartograph.org/showcase/eastcoast/
+
+https://www.gapminder.org/tools-offline/
+
+https://docs.pyvista.org/
+https://github.com/lux-org/lux
+https://pyviz.org/
+https://holoviz.org/tutorial/index.html
+
+https://github.com/apache/echarts
+https://pyecharts.org/#/en-us/charts_base
+
+https://echarts.apache.org/en/index.html
+http://motioninsocial.com/tufte/#introduction
+
+
+https://github.com/altair-viz/altair
+
+https://cytoscape.org/what_is_cytoscape.html
+https://gephi.org/
+https://schoolofdata.org/2014/08/20/4-network-visualisation-tools/
+
+https://github.com/man-group/dtale
+
+https://github.com/adamerose/pandasgui
+https://streamlit.io/
