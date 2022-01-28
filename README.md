@@ -1,13 +1,18 @@
 # Tools and software
 
+## image editing
 - Gimp
 - Krita
 - Inkscape
+
+##  Creating video and GIFs
 - EasyGif
 - ScreenToGif
 - ShareX
 - Screen recording: Open Broadcaster Software (OBS)
-- Lossless video editing: https://github.com/ozmartian/vidcutter
+- [Lossless video editing: VidCutter](https://github.com/ozmartian/vidcutter)
+
+# Programming tools
 - PyCharm
 - Sourcery
 - Git
@@ -21,12 +26,13 @@
 - Link to demo.py
 - Examples
 - Apps made with Dear PyGui
-- Discord: https://discord.gg/tyE7Gu4
+- [Discord](https://discord.gg/tyE7Gu4)
 - Reddit Python GUI
 - Reddit DearPyGui
-- https://star-history.com/#hoffstadt/DearPyGui&Date
-- https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&Date
-
+- [DPG Star history graph](https://star-history.com/#hoffstadt/DearPyGui&Date)
+- [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&Date)
+- [Raccoon Music Player](https://github.com/bandit-masked/raccoon)
+-  
 # ReadMe examples and ideas
 - https://github.com/appsmithorg/appsmith
 - https://www.readme-templates.com/
