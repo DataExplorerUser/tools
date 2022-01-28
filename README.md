@@ -83,4 +83,4 @@
 - https://github.com/apache/echarts
 - https://pyecharts.org/#/en-us/charts_base
 - https://echarts.apache.org/en/index.html
-- [Pretty maps](https://github.com/marceloprates/prettymaps) | Tutorial
+- [Pretty maps](https://github.com/marceloprates/prettymaps) | [Tutorial](https://www.youtube.com/watch?v=5za5I3kUuOI)
