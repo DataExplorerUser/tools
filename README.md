@@ -8,7 +8,7 @@
 - [Stargazers](https://github.com/hoffstadt/DearPyGui/stargazers)
 - [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
 - [demo.py code](https://github.com/hoffstadt/DearPyGui/blob/master/DearPyGui/dearpygui/demo.py)
-- Examples
+- [Examples](https://github.com/yet-another-alex/dearpygui-examples)
 - Apps made with Dear PyGui (in progress)
 - [Discord](https://discord.gg/tyE7Gu4)
 - [Reddit Python GUI](https://www.reddit.com/search/?q=python%20gui&sort=new)
