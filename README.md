@@ -16,7 +16,8 @@
 - [DPG Star history graph](https://star-history.com/#hoffstadt/DearPyGui&Date)
 - [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&Date) | [WxPython Phoenix](https://github.com/wxWidgets/Phoenix)
 - [Raccoon Music Player](https://github.com/bandit-masked/raccoon)
--  
+- [Pixl engine](https://github.com/Atlamillias/dearpypixl)
+
 # ReadMe examples and ideas
 - https://github.com/appsmithorg/appsmith
 - https://www.readme-templates.com/
