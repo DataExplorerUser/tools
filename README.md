@@ -44,6 +44,11 @@
 - https://www.youtube.com/watch?v=5za5I3kUuOI
 - 
 
+# Data management
+- Pandas
+- Vaex
+- Datatable
+
 # Data analysis
 - https://dmnfarrell.github.io/tablexplore/
 
