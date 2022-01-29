@@ -30,7 +30,7 @@
 - [EasyGif](https://ezgif.com/video-to-gif)
 - ScreenToGif (no audio)
 - ShareX
-- [Open Broadcaster Software (OBS)](https://obsproject.com/)
+- [OBS](https://obsproject.com/)
 - [Lossless video editing: VidCutter](https://github.com/ozmartian/vidcutter)
 
 # Programming tools
