@@ -1,22 +1,5 @@
 # Tools and software
 
-## image editing
-- Gimp
-- Krita
-- Inkscape
-
-##  Creating video and GIFs
-- [EasyGif](https://ezgif.com/video-to-gif)
-- ScreenToGif (no audio)
-- ShareX
-- [Open Broadcaster Software (OBS)](https://obsproject.com/)
-- [Lossless video editing: VidCutter](https://github.com/ozmartian/vidcutter)
-
-# Programming tools
-- PyCharm
-- Sourcery
-- Git
-
 # Dear PyGui resources
 
 - [Showcase](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
@@ -37,6 +20,22 @@
 - https://github.com/appsmithorg/appsmith
 - https://www.readme-templates.com/
 
+## Image editing
+- Gimp
+- Krita
+- Inkscape
+
+##  Creating video and GIFs
+- [EasyGif](https://ezgif.com/video-to-gif)
+- ScreenToGif (no audio)
+- ShareX
+- [Open Broadcaster Software (OBS)](https://obsproject.com/)
+- [Lossless video editing: VidCutter](https://github.com/ozmartian/vidcutter)
+
+# Programming tools
+- PyCharm
+- Sourcery
+- Git
 
 # Interesting Python projects
 - https://github.com/taichi-dev/taichi
