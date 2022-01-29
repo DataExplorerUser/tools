@@ -19,16 +19,16 @@
 
 # Dear PyGui resources
 
-- Showcase
-- Issues
-- Stargazers
-- API documentation
+- [Showcase](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
+- [Issues](https://github.com/hoffstadt/DearPyGui/issues)
+- [Stargazers](https://github.com/hoffstadt/DearPyGui/stargazers)
+- [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
 - Link to demo.py
 - Examples
-- Apps made with Dear PyGui
+- Apps made with Dear PyGui (in progress)
 - [Discord](https://discord.gg/tyE7Gu4)
-- Reddit Python GUI
-- Reddit DearPyGui
+- [Reddit Python GUI]
+- [Reddit DearPyGui](https://www.reddit.com/r/DearPyGui/)
 - [DPG Star history graph](https://star-history.com/#hoffstadt/DearPyGui&Date)
 - [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&Date)
 - [Raccoon Music Player](https://github.com/bandit-masked/raccoon)
@@ -40,7 +40,7 @@
 
 # Interesting Python projects
 - https://github.com/taichi-dev/taichi
-- https://blog.streamlit.io/how-to-master-streamlit-for-data-science/
+- https://blog.streamlit.io/how-to-master-streamlit-for-data-science/ ! [Streamlit tutorial](https://www.youtube.com/watch?v=TzF-OUA1Tlo)
 - https://www.youtube.com/watch?v=5za5I3kUuOI
 - 
 
