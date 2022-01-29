@@ -51,16 +51,17 @@
 - Datatable
 
 # Data analysis
-- https://dmnfarrell.github.io/tablexplore/
+- [Table Explore](https://dmnfarrell.github.io/tablexplore/)
+- [Pandas GUI](https://github.com/adamerose/pandasgui)
+- [Dtale](https://github.com/man-group/dtale)
 
 # Data visualisation
+- [Gapminder](https://www.gapminder.org/tools-offline/)
 - http://motioninsocial.com/tufte/#introduction
 - https://github.com/altair-viz/altair
 - https://cytoscape.org/what_is_cytoscape.html
 - https://gephi.org/
 - https://schoolofdata.org/2014/08/20/4-network-visualisation-tools/
-- https://github.com/man-group/dtale
-- https://github.com/adamerose/pandasgui
 - https://streamlit.io/
 
 
@@ -81,7 +82,7 @@
 - http://square.github.io/crossfilter/
 - http://polymaps.org/
 - http://kartograph.org/showcase/eastcoast/
-- https://www.gapminder.org/tools-offline/
+
 - https://docs.pyvista.org/
 - https://github.com/lux-org/lux
 - https://pyviz.org/
