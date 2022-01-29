@@ -14,7 +14,7 @@
 - [Reddit Python GUI](https://www.reddit.com/search/?q=python%20gui&sort=new)
 - [Reddit DearPyGui](https://www.reddit.com/r/DearPyGui/new/)
 - [DPG Star history graph](https://star-history.com/#hoffstadt/DearPyGui&Date)
-- [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&Date)
+- [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&Date) | [WxPython Phoenix](https://github.com/wxWidgets/Phoenix)
 - [Raccoon Music Player](https://github.com/bandit-masked/raccoon)
 -  
 # ReadMe examples and ideas
