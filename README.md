@@ -27,8 +27,8 @@
 - Examples
 - Apps made with Dear PyGui (in progress)
 - [Discord](https://discord.gg/tyE7Gu4)
-- [Reddit Python GUI]
-- [Reddit DearPyGui](https://www.reddit.com/r/DearPyGui/)
+- [Reddit Python GUI](https://www.reddit.com/search/?q=python%20gui&sort=new)
+- [Reddit DearPyGui](https://www.reddit.com/r/DearPyGui/new/)
 - [DPG Star history graph](https://star-history.com/#hoffstadt/DearPyGui&Date)
 - [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&Date)
 - [Raccoon Music Player](https://github.com/bandit-masked/raccoon)
