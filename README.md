@@ -6,7 +6,7 @@
 - Inkscape
 
 ##  Creating video and GIFs
-- EasyGif
+- [EasyGif](https://ezgif.com/video-to-gif)
 - ScreenToGif
 - ShareX
 - Screen recording: Open Broadcaster Software (OBS)
