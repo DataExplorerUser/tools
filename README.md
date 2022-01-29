@@ -7,7 +7,7 @@
 
 ##  Creating video and GIFs
 - [EasyGif](https://ezgif.com/video-to-gif)
-- ScreenToGif
+- ScreenToGif (no audio)
 - ShareX
 - [Open Broadcaster Software (OBS)](https://obsproject.com/)
 - [Lossless video editing: VidCutter](https://github.com/ozmartian/vidcutter)
