@@ -9,7 +9,7 @@
 - [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
 - [demo.py code](https://github.com/hoffstadt/DearPyGui/blob/master/DearPyGui/dearpygui/demo.py)
 - [Examples](https://github.com/yet-another-alex/dearpygui-examples)
-- Apps made with Dear PyGui (in progress)
+- Apps being developed: [Solar tracker](https://github.com/iOsnaaente/Supervisorio_TrackerSolar)
 - [Discord](https://discord.gg/tyE7Gu4)
 - [Reddit Python GUI](https://www.reddit.com/search/?q=python%20gui&sort=new)
 - [Reddit DearPyGui](https://www.reddit.com/r/DearPyGui/new/)
@@ -39,10 +39,10 @@
 - Git
 
 # Interesting Python projects
-- https://github.com/taichi-dev/taichi
-- https://blog.streamlit.io/how-to-master-streamlit-for-data-science/ ! [Streamlit tutorial](https://www.youtube.com/watch?v=TzF-OUA1Tlo)
-- https://www.youtube.com/watch?v=5za5I3kUuOI
-- 
+- [Taichi visualisation](https://github.com/taichi-dev/taichi)
+- [Streamlit blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science) | [Streamlit tutorial](https://www.youtube.com/watch?v=TzF-OUA1Tlo)
+- [Pretty maps tutorial](https://www.youtube.com/watch?v=5za5I3kUuOI)
+
 
 # Data management
 - Pandas
