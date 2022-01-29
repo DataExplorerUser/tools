@@ -41,7 +41,7 @@
 # Interesting Python projects
 - [Taichi visualisation](https://github.com/taichi-dev/taichi)
 - [Streamlit blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science) | [Streamlit tutorial](https://www.youtube.com/watch?v=TzF-OUA1Tlo)
-- [Pretty maps tutorial](https://www.youtube.com/watch?v=5za5I3kUuOI)
+- [Pretty maps](https://github.com/marceloprates/prettymaps) | [Tutorial](https://www.youtube.com/watch?v=5za5I3kUuOI)
 
 
 # Data management
@@ -88,4 +88,3 @@
 - https://github.com/apache/echarts
 - https://pyecharts.org/#/en-us/charts_base
 - https://echarts.apache.org/en/index.html
-- [Pretty maps](https://github.com/marceloprates/prettymaps) | [Tutorial](https://www.youtube.com/watch?v=5za5I3kUuOI)
