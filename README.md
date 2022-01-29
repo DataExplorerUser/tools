@@ -4,6 +4,7 @@
 
 - [Showcase](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
 - [Issues](https://github.com/hoffstadt/DearPyGui/issues)
+- [Commits](https://github.com/hoffstadt/DearPyGui/commits/master)
 - [Stargazers](https://github.com/hoffstadt/DearPyGui/stargazers)
 - [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
 - [demo.py code](https://github.com/hoffstadt/DearPyGui/blob/master/DearPyGui/dearpygui/demo.py)
