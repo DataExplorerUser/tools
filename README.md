@@ -57,6 +57,7 @@
 
 # Data visualisation
 - [Gapminder](https://www.gapminder.org/tools-offline/)
+- [Datoviz](https://datoviz.org/)
 - http://motioninsocial.com/tufte/#introduction
 - https://github.com/altair-viz/altair
 - https://cytoscape.org/what_is_cytoscape.html
