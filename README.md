@@ -6,7 +6,7 @@
 - [Issues](https://github.com/hoffstadt/DearPyGui/issues)
 - [Stargazers](https://github.com/hoffstadt/DearPyGui/stargazers)
 - [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
-- Link to demo.py
+- [demo.py code](https://github.com/hoffstadt/DearPyGui/blob/master/DearPyGui/dearpygui/demo.py)
 - Examples
 - Apps made with Dear PyGui (in progress)
 - [Discord](https://discord.gg/tyE7Gu4)
