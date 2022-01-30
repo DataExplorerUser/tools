@@ -47,7 +47,7 @@
 
 # Data management
 - Pandas
-- Vaex
+- [Vaex](https://vaex.io/docs/index.html)
 - Datatable
 
 # Data analysis
