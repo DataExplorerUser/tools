@@ -1,7 +1,6 @@
 # Tools and software
 
 # Dear PyGui resources
-
 - [Showcase](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
 - [Issues](https://github.com/hoffstadt/DearPyGui/issues)
 - [Commits](https://github.com/hoffstadt/DearPyGui/commits/master)
@@ -16,14 +15,17 @@
 - [Raccoon Music Player](https://github.com/bandit-masked/raccoon)
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
+
 # ReadMe examples and ideas
 - https://github.com/appsmithorg/appsmith
 - https://www.readme-templates.com/
+
 
 ## Image editing
 - Gimp
 - Krita
 - Inkscape
+
 
 ##  Creating video and GIFs
 - [EasyGif](https://ezgif.com/video-to-gif)
@@ -34,10 +36,12 @@
 - [Lossless cut video editor](https://github.com/mifi/lossless-cut)
 - [Automatic typing for tutorials](https://github.com/mfitzp/diffcast)
 
+
 # Programming tools
 - PyCharm
 - Sourcery
 - Git
+
 
 # Interesting Python projects
 - [Taichi visualisation](https://github.com/taichi-dev/taichi)
@@ -63,11 +67,24 @@
 - [Edward Tufte](http://motioninsocial.com/tufte/#introduction)
 - [Altair](https://github.com/altair-viz/altair)
 - [Streamlit](https://streamlit.io/)
+- [Apache Superset web](https://superset.apache.org/gallery)
+- [Graph ideas, no code](https://datavizproject.com/)
+- [Perspective real-time graphs web](https://perspective.finos.org/)
+- [Lux data exploration](https://github.com/lux-org/lux)
+- [MS SandDance data exploration](https://microsoft.github.io/SandDance/)
+- [Overview dataviz libraries](https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
+- [GeoPlot library](https://deepai.org/publication/geoplotlib-a-python-toolbox-for-visualizing-geographical-data)
+- [PyVista](https://docs.pyvista.org/)
+- [PyViz](https://pyviz.org/)
+- [HoloViz](https://holoviz.org/tutorial/index.html)
+- [Apache E-charts](https://echarts.apache.org/en/index.html) | [E-charts](https://github.com/apache/echarts) | [Py E-charts](https://pyecharts.org/#/en-us/charts_base)
+
 
 # Network graphs
 - [Cytoscape](https://cytoscape.org/what_is_cytoscape.html)
 - [Gephi](https://gephi.org/)
 - [Network graphs](https://schoolofdata.org/2014/08/20/4-network-visualisation-tools/)
+
 
 # Fonts
 - [Google fonts](https://fonts.google.com/)
@@ -80,15 +97,3 @@
 - [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&wxWidgets/Phoenix&Date) | [WxPython Phoenix](https://github.com/wxWidgets/Phoenix)
 
 
-# Other resources
-- [Apache Superset web](https://superset.apache.org/gallery)
-- [Graph ideas, no code](https://datavizproject.com/)
-- [Perspective real-time graphs web](https://perspective.finos.org/)
-- [Lux data exploration](https://github.com/lux-org/lux)
-- [MS SandDance data exploration](https://microsoft.github.io/SandDance/)
-- [Overview dataviz libraries](https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
-- [GeoPlot library](https://deepai.org/publication/geoplotlib-a-python-toolbox-for-visualizing-geographical-data)
-- [PyVista](https://docs.pyvista.org/)
-- [PyViz](https://pyviz.org/)
-- [HoloViz](https://holoviz.org/tutorial/index.html)
-- [Apache E-charts](https://echarts.apache.org/en/index.html) | [E-charts](https://github.com/apache/echarts) | [Py E-charts](https://pyecharts.org/#/en-us/charts_base)
