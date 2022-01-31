@@ -66,6 +66,9 @@
 - https://schoolofdata.org/2014/08/20/4-network-visualisation-tools/
 - https://streamlit.io/
 
+# Fonts
+- [Google fonts](https://fonts.google.com/)
+- [Monospace fonts](https://ianyepan.github.io/posts/system-default-monospace-fonts-pt2/)
 
 # Other resources
 - https://thebetterwebmovement.com/choosing-best-time-post-to-reddit/
