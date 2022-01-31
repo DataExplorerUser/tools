@@ -82,13 +82,11 @@
 - [Apache Superset web](https://superset.apache.org/gallery)
 - [Graph ideas, no code](https://datavizproject.com/)
 - [Perspective real-time graphs web](https://perspective.finos.org/)
-- https://potocpav.github.io/python-concur-docs/homepage.html
-- https://www.youtube.com/playlist?list=PL8ncIDIP_e6v1dV1xVacsH4qjuoPMMnDe
-- https://github.com/lux-org/lux
-- https://microsoft.github.io/SandDance/
-- https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
-- https://deepai.org/publication/geoplotlib-a-python-toolbox-for-visualizing-geographical-data
-- http://kartograph.org/
+- [Lux data exploration](https://github.com/lux-org/lux)
+- [MS SandDance data exploration](https://microsoft.github.io/SandDance/)
+- [Overview dataviz libraries](https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
+- [GeoPlot library](https://deepai.org/publication/geoplotlib-a-python-toolbox-for-visualizing-geographical-data)
+- [Kartograph](http://kartograph.org/)
 - https://processing.org/examples/
 - http://square.github.io/crossfilter/
 - http://polymaps.org/
