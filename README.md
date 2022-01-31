@@ -86,16 +86,7 @@
 - [MS SandDance data exploration](https://microsoft.github.io/SandDance/)
 - [Overview dataviz libraries](https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
 - [GeoPlot library](https://deepai.org/publication/geoplotlib-a-python-toolbox-for-visualizing-geographical-data)
-- [Kartograph](http://kartograph.org/)
-- https://processing.org/examples/
-- http://square.github.io/crossfilter/
-- http://polymaps.org/
-- http://kartograph.org/showcase/eastcoast/
-
-- https://docs.pyvista.org/
-- https://github.com/lux-org/lux
-- https://pyviz.org/
-- https://holoviz.org/tutorial/index.html
-- https://github.com/apache/echarts
-- https://pyecharts.org/#/en-us/charts_base
-- https://echarts.apache.org/en/index.html
+- [PyVista](https://docs.pyvista.org/)
+- [PyViz](https://pyviz.org/)
+- [HoloViz](https://holoviz.org/tutorial/index.html)
+- [Apache E-charts](https://echarts.apache.org/en/index.html) | [E-charts](https://github.com/apache/echarts) | [Py E-charts](https://pyecharts.org/#/en-us/charts_base)
