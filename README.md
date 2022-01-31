@@ -32,6 +32,7 @@
 - [OBS](https://obsproject.com/)
 - [VidCutter video editor](https://github.com/ozmartian/vidcutter)
 - [Lossless cut video editor](https://github.com/mifi/lossless-cut)
+- [Automatic typing for tutorials](https://github.com/mfitzp/diffcast)
 
 # Programming tools
 - PyCharm
