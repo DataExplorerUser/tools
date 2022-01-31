@@ -32,7 +32,8 @@
 - ScreenToGif (no audio)
 - ShareX
 - [OBS](https://obsproject.com/)
-- [Lossless video editing: VidCutter](https://github.com/ozmartian/vidcutter)
+- [VidCutter video editor](https://github.com/ozmartian/vidcutter)
+- [Lossless cut video editor](https://github.com/mifi/lossless-cut)
 
 # Programming tools
 - PyCharm
