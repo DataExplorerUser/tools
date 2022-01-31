@@ -13,8 +13,7 @@
 - [Discord](https://discord.gg/tyE7Gu4)
 - [Reddit Python GUI](https://www.reddit.com/search/?q=python%20gui&sort=new)
 - [Reddit DearPyGui](https://www.reddit.com/r/DearPyGui/new/)
-- [DPG Star history graph](https://star-history.com/#hoffstadt/DearPyGui&Date)
-- [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&wxWidgets/Phoenix&Date) | [WxPython Phoenix](https://github.com/wxWidgets/Phoenix)
+
 - [Raccoon Music Player](https://github.com/bandit-masked/raccoon)
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
@@ -70,8 +69,13 @@
 - [Google fonts](https://fonts.google.com/)
 - [Monospace fonts](https://ianyepan.github.io/posts/system-default-monospace-fonts-pt2/)
 
+# Social media
+- [Best time to post on Reddit](https://thebetterwebmovement.com/choosing-best-time-post-to-reddit/)
+- [DPG Star history graph](https://star-history.com/#hoffstadt/DearPyGui&Date)
+- [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&wxWidgets/Phoenix&Date) | [WxPython Phoenix](https://github.com/wxWidgets/Phoenix)
+
 # Other resources
-- https://thebetterwebmovement.com/choosing-best-time-post-to-reddit/
+
 - https://superset.apache.org/docs/intro/
 - https://datavizproject.com/
 - https://perspective.finos.org/
