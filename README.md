@@ -61,11 +61,12 @@
 - [Datoviz](https://datoviz.org/) | [GitHub](https://github.com/datoviz/datoviz/) | [Installation](https://datoviz.org/tutorials/install/)
 - [Edward Tufte](http://motioninsocial.com/tufte/#introduction)
 - [Altair](https://github.com/altair-viz/altair)
+- [Streamlit](https://streamlit.io/)
+
+# Network graphs
 - [Cytoscape](https://cytoscape.org/what_is_cytoscape.html)
 - [Gephi](https://gephi.org/)
 - [Network graphs](https://schoolofdata.org/2014/08/20/4-network-visualisation-tools/)
-- [Streamlit](https://streamlit.io/)
-
 
 # Fonts
 - [Google fonts](https://fonts.google.com/)
