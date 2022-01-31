@@ -79,10 +79,9 @@
 
 
 # Other resources
-- https://superset.apache.org/docs/intro/
-- https://datavizproject.com/
-- https://perspective.finos.org/
-- https://www.youtube.com/watch?v=Ekp2mfxQSzw
+- [Apache Superset web](https://superset.apache.org/gallery)
+- [Graph ideas, no code](https://datavizproject.com/)
+- [Perspective real-time graphs web](https://perspective.finos.org/)
 - https://potocpav.github.io/python-concur-docs/homepage.html
 - https://www.youtube.com/playlist?list=PL8ncIDIP_e6v1dV1xVacsH4qjuoPMMnDe
 - https://github.com/lux-org/lux
