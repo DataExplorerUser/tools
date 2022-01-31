@@ -59,11 +59,11 @@
 # Data visualisation
 - [Gapminder](https://www.gapminder.org/tools-offline/)
 - [Datoviz](https://datoviz.org/) | [GitHub](https://github.com/datoviz/datoviz/) | [Installation](https://datoviz.org/tutorials/install/)
-- http://motioninsocial.com/tufte/#introduction
-- https://github.com/altair-viz/altair
-- https://cytoscape.org/what_is_cytoscape.html
-- https://gephi.org/
-- https://schoolofdata.org/2014/08/20/4-network-visualisation-tools/
+- [Edward Tufte](http://motioninsocial.com/tufte/#introduction)
+- [Altair](https://github.com/altair-viz/altair)
+- [Cytoscape](https://cytoscape.org/what_is_cytoscape.html)
+- [Gephi](https://gephi.org/)
+- [Network graphs](https://schoolofdata.org/2014/08/20/4-network-visualisation-tools/)
 - [Streamlit](https://streamlit.io/)
 
 
