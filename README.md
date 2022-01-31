@@ -13,7 +13,6 @@
 - [Discord](https://discord.gg/tyE7Gu4)
 - [Reddit Python GUI](https://www.reddit.com/search/?q=python%20gui&sort=new)
 - [Reddit DearPyGui](https://www.reddit.com/r/DearPyGui/new/)
-
 - [Raccoon Music Player](https://github.com/bandit-masked/raccoon)
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
@@ -50,10 +49,12 @@
 - [Vaex](https://vaex.io/docs/index.html)
 - Datatable
 
+
 # Data analysis
 - [Table Explore](https://dmnfarrell.github.io/tablexplore/)
 - [Pandas GUI](https://github.com/adamerose/pandasgui)
 - [Dtale](https://github.com/man-group/dtale)
+
 
 # Data visualisation
 - [Gapminder](https://www.gapminder.org/tools-offline/)
@@ -63,19 +64,21 @@
 - https://cytoscape.org/what_is_cytoscape.html
 - https://gephi.org/
 - https://schoolofdata.org/2014/08/20/4-network-visualisation-tools/
-- https://streamlit.io/
+- [Streamlit](https://streamlit.io/)
+
 
 # Fonts
 - [Google fonts](https://fonts.google.com/)
 - [Monospace fonts](https://ianyepan.github.io/posts/system-default-monospace-fonts-pt2/)
+
 
 # Social media
 - [Best time to post on Reddit](https://thebetterwebmovement.com/choosing-best-time-post-to-reddit/)
 - [DPG Star history graph](https://star-history.com/#hoffstadt/DearPyGui&Date)
 - [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&wxWidgets/Phoenix&Date) | [WxPython Phoenix](https://github.com/wxWidgets/Phoenix)
 
-# Other resources
 
+# Other resources
 - https://superset.apache.org/docs/intro/
 - https://datavizproject.com/
 - https://perspective.finos.org/
