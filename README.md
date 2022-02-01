@@ -15,6 +15,10 @@
 - [Raccoon Music Player](https://github.com/bandit-masked/raccoon)
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
+# GUI
+- [EEL](https://github.com/ChrisKnott/Eel)
+- [Gooey](https://github.com/chriskiehl/Gooey)
+
 
 # ReadMe examples and ideas
 - https://github.com/appsmithorg/appsmith
