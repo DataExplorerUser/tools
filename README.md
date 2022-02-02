@@ -60,8 +60,8 @@
 
 
 # Data management
-- Pandas
-- [Vaex](https://vaex.io/docs/index.html)
+- [Pandas](https://pandas.pydata.org/)
+- [Vaex](https://vaex.io/docs/index.html/)
 - [Datatable](https://datatable.readthedocs.io/en/latest/)
 
 
