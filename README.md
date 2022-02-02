@@ -24,6 +24,10 @@
 - [EEL](https://github.com/ChrisKnott/Eel)
 - [Gooey](https://github.com/chriskiehl/Gooey)
 
+# Web frameworks
+- [Flask](https://github.com/pallets/flask)
+- [Django](https://github.com/django/django)
+
 
 # ReadMe examples and ideas
 - https://github.com/appsmithorg/appsmith
