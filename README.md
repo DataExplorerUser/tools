@@ -100,7 +100,7 @@
 # Social media
 - [Best time to post on Reddit](https://thebetterwebmovement.com/choosing-best-time-post-to-reddit/)
 - [DPG Star history graph](https://star-history.com/#hoffstadt/DearPyGui&Date)
-- [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&wxWidgets/Phoenix&pygame/pygame&pythonarcade/arcade&pokepetter/ursina&panda3d/panda3d&ChrisKnott/Eel&Timeline)
+- [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&wxWidgets/Phoenix&pygame/pygame&pythonarcade/arcade&pokepetter/ursina&panda3d/panda3d&ChrisKnott/Eel&chriskiehl/Gooey&Timeline)
 
 
 
