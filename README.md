@@ -30,7 +30,7 @@
 
 
 # ReadMe examples and ideas
-- [App smith](https://github.com/appsmithorg/appsmith)
+- [Appsmith](https://github.com/appsmithorg/appsmith)
 - [ReadMe templates](https://www.readme-templates.com/)
 
 
