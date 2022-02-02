@@ -5,6 +5,7 @@
 - [Issues](https://github.com/hoffstadt/DearPyGui/issues)
 - [Commits](https://github.com/hoffstadt/DearPyGui/commits/master)
 - [Stargazers](https://github.com/hoffstadt/DearPyGui/stargazers)
+- [Download stats](https://pepy.tech/project/dearpygui)
 - [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
 - [demo.py code](https://github.com/hoffstadt/DearPyGui/blob/master/DearPyGui/dearpygui/demo.py)
 - [Examples by Another Alex](https://github.com/yet-another-alex/dearpygui-examples)
