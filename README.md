@@ -30,8 +30,8 @@
 
 
 # ReadMe examples and ideas
-- https://github.com/appsmithorg/appsmith
-- https://www.readme-templates.com/
+- [App smith](https://github.com/appsmithorg/appsmith)
+- [ReadMe templates](https://www.readme-templates.com/)
 
 
 ## Image editing
