@@ -16,6 +16,10 @@
 - [Raccoon Music Player](https://github.com/bandit-masked/raccoon)
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
+# DPG FAQ
+- [How to centre (center) text or align text to the right?](https://github.com/hoffstadt/DearPyGui/issues/1111)
+
+
 # GUI
 - [EEL](https://github.com/ChrisKnott/Eel)
 - [Gooey](https://github.com/chriskiehl/Gooey)
