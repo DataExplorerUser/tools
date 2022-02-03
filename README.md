@@ -69,10 +69,11 @@
 - [Datatable](https://datatable.readthedocs.io/en/latest/)
 
 
-# Data analysis
+# Data Exploration
 - [Table Explore](https://dmnfarrell.github.io/tablexplore/)
 - [Pandas GUI](https://github.com/adamerose/pandasgui)
 - [Dtale](https://github.com/man-group/dtale)
+- [Lux data exploration](https://github.com/lux-org/lux)
 
 
 # Data visualisation
@@ -84,7 +85,6 @@
 - [Apache Superset web](https://superset.apache.org/gallery)
 - [Graph ideas, no code](https://datavizproject.com/)
 - [Perspective real-time graphs web](https://perspective.finos.org/)
-- [Lux data exploration](https://github.com/lux-org/lux)
 - [MS SandDance data exploration](https://microsoft.github.io/SandDance/)
 - [Overview dataviz libraries](https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
 - [GeoPlot library](https://deepai.org/publication/geoplotlib-a-python-toolbox-for-visualizing-geographical-data)
