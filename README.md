@@ -114,3 +114,4 @@
 # Python Subreddits
 - [Made in Python](https://www.reddit.com/r/madeinpython/)
 
+- [Reddit Shadowban](https://www.reddit.com/r/ShadowBan/)
