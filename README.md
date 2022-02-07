@@ -21,6 +21,7 @@
 
 
 # GUI
+- [Overview of Python GUIs](https://wiki.python.org/moin/GuiProgramming)
 - [EEL](https://github.com/ChrisKnott/Eel)
 - [Gooey](https://github.com/chriskiehl/Gooey)
 
