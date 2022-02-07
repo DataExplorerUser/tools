@@ -23,7 +23,8 @@
 # GUI
 - [Overview of Python GUIs](https://wiki.python.org/moin/GuiProgramming)
 - [EEL](https://github.com/ChrisKnott/Eel)
-- [Gooey](https://github.com/chriskiehl/Gooey)
+- [Gooey - based on WxPython](https://github.com/chriskiehl/Gooey)
+- [WxPython Phoenix]
 
 # Web frameworks
 - [Flask](https://github.com/pallets/flask)
