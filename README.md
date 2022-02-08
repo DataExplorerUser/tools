@@ -24,7 +24,9 @@
 - [Overview of Python GUIs](https://wiki.python.org/moin/GuiProgramming)
 - [EEL](https://github.com/ChrisKnott/Eel)
 - [Gooey - based on WxPython](https://github.com/chriskiehl/Gooey)
-- [WxPython Phoenix]
+- [WxPython Phoenix](https://github.com/wxWidgets/Phoenix)
+- [Remi](https://github.com/dddomodossola/remi)
+- [PySimpleGui](https://pysimplegui.readthedocs.io/en/latest/)
 
 # Web frameworks
 - [Flask](https://github.com/pallets/flask)
