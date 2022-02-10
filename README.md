@@ -14,6 +14,7 @@
 - [Reddit Python GUI](https://www.reddit.com/search/?q=python%20gui&sort=new)
 - [Reddit DearPyGui](https://www.reddit.com/r/DearPyGui/new/)
 - [Raccoon Music Player](https://github.com/bandit-masked/raccoon)
+- [RMP Reddit](https://www.reddit.com/r/Python/comments/sp7ddv/my_first_project_raccoon_music_player_cute/)
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
 # DPG FAQ
