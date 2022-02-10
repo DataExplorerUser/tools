@@ -21,6 +21,7 @@
 
 
 # GUI
+- [r/learnython GUI list](https://www.reddit.com/r/learnpython/wiki/faq)
 - [Overview of Python GUIs](https://wiki.python.org/moin/GuiProgramming)
 - [EEL](https://github.com/ChrisKnott/Eel)
 - [Gooey - based on WxPython](https://github.com/chriskiehl/Gooey)
