@@ -9,7 +9,7 @@
 - [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
 - [demo.py code](https://github.com/hoffstadt/DearPyGui/blob/master/DearPyGui/dearpygui/demo.py)
 - [Examples by Another Alex](https://github.com/yet-another-alex/dearpygui-examples)
-- Apps being developed: [Solar tracker](https://github.com/iOsnaaente/Supervisorio_TrackerSolar)
+- Apps being developed: [Solar tracker](https://github.com/iOsnaaente/Supervisorio_TrackerSolar) | [Searchable tag record](https://github.com/sharkbound/pythontools/tree/master/examples/dearpyguiapps/index_ui)
 - [Discord](https://discord.gg/tyE7Gu4)
 - [Reddit Python GUI](https://www.reddit.com/search/?q=python%20gui&sort=new)
 - [Reddit DearPyGui](https://www.reddit.com/r/DearPyGui/new/)
