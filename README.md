@@ -24,6 +24,9 @@
 # GUI
 - [r/learnython GUI list](https://www.reddit.com/r/learnpython/wiki/faq)
 - [Overview of Python GUIs](https://wiki.python.org/moin/GuiProgramming)
+- [Dear PyGui](https://github.com/hoffstadt/DearPyGui)
+- [Tkinter](https://docs.python.org/3/library/tk.html)
+- [PyGObject](https://pygobject.readthedocs.io/en/latest/)
 - [EEL](https://github.com/ChrisKnott/Eel)
 - [Gooey - based on WxPython](https://github.com/chriskiehl/Gooey)
 - [WxPython Phoenix](https://github.com/wxWidgets/Phoenix)
