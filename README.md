@@ -19,7 +19,7 @@
 
 # DPG FAQ
 - [How to centre (center) text or align text to the right?](https://github.com/hoffstadt/DearPyGui/issues/1111)
-
+- [Programmatically change the active tab]
 
 # GUI
 - [r/learnython GUI list](https://www.reddit.com/r/learnpython/wiki/faq)
@@ -35,8 +35,14 @@
 - [RenPy](https://www.renpy.org/)
 
 # Web frameworks
+- [FastAPI](https://fastapi.tiangolo.com/)
 - [Flask](https://github.com/pallets/flask)
 - [Django](https://github.com/django/django)
+
+# Packaging Python apps
+- [Nuitka]()
+- [Pyinstaller]()
+- 
 
 
 # ReadMe examples and ideas
