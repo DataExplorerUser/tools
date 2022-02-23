@@ -19,7 +19,7 @@
 
 # DPG FAQ
 - [How to centre (center) text or align text to the right?](https://github.com/hoffstadt/DearPyGui/issues/1111)
-- [Programmatically change the active tab]
+- [Programmatically change the active tab](https://github.com/hoffstadt/DearPyGui/discussions/1582)
 
 # GUI
 - [r/learnython GUI list](https://www.reddit.com/r/learnpython/wiki/faq)
