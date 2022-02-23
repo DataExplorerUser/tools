@@ -42,7 +42,8 @@
 # Packaging Python apps
 - [Nuitka]()
 - [Pyinstaller]()
-- 
+- [Auto Py2Exe](https://pypi.org/project/auto-py-to-exe/)
+- [Whitebox (MacOS)](http://s.sudre.free.fr/Software/Packages/about.html)
 
 
 # ReadMe examples and ideas
