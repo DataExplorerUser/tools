@@ -133,3 +133,7 @@
 - [Made in Python](https://www.reddit.com/r/madeinpython/)
 
 - [Reddit Shadowban](https://www.reddit.com/r/ShadowBan/)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hoffstadt/DearPyGui,pysimplegui/pysimplegui,kivy/kivy,wxWidgets/Phoenix,pygame/pygame,pythonarcade/arcade,pokepetter/ursina,panda3d/panda3d,ChrisKnott/Eel,chriskiehl/Gooey&type=Timeline)](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&wxWidgets/Phoenix&pygame/pygame&pythonarcade/arcade&pokepetter/ursina&panda3d/panda3d&ChrisKnott/Eel&chriskiehl/Gooey&Timeline)
