@@ -128,6 +128,7 @@
 - [Top Intermediate Showcase](https://www.reddit.com/r/Python/search?q=flair_name%3A%22Intermediate%20Showcase%22&restrict_sr=1&sort=top)
 - [DPG Star history graph](https://star-history.com/#hoffstadt/DearPyGui&Date)
 - [GUI Star history graph](https://star-history.com/#hoffstadt/DearPyGui&pysimplegui/pysimplegui&kivy/kivy&wxWidgets/Phoenix&pygame/pygame&pythonarcade/arcade&pokepetter/ursina&panda3d/panda3d&ChrisKnott/Eel&chriskiehl/Gooey&Timeline)
+- [Hacker News](https://news.ycombinator.com/news)
 
 # Python Subreddits
 - [Made in Python](https://www.reddit.com/r/madeinpython/)
