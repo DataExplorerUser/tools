@@ -27,12 +27,49 @@
 - [Example using threading, Asyncio, multiprocessing](https://github.com/fIux-dev/froyo/blob/f4a4a88b8f4cc910ecd9896aabacd5b71e3a76bd/source/engine.py)
 
 
-# High DPI on Windows
+# Code snippets
+
+High DPI on Windows
+
 ```Python
 import ctypes
 # Include the following code before showing the viewport/calling `dearpygui.dearpygui.show_viewport`.
 ctypes.windll.shcore.SetProcessDpiAwareness(2)
 # You will likely need to increase the font size of the font you are using if this works. Let me know if it does. 
+```
+
+Remove the maximize button on Windows
+
+```Python
+
+import win32api
+import win32con
+import win32gui
+from dearpygui.dearpygui import *
+
+def disable_cb():
+    hwnd = win32gui.GetForegroundWindow()
+    win32api.SetWindowLong(hwnd, win32con.GWL_STYLE,
+                  win32api.GetWindowLong(hwnd, win32con.GWL_STYLE) & ~win32con.WS_MAXIMIZEBOX)
+
+def enable_cb():
+    hwnd = win32gui.GetForegroundWindow()
+    win32api.SetWindowLong(hwnd, win32con.GWL_STYLE,
+                  win32api.GetWindowLong(hwnd, win32con.GWL_STYLE) | win32con.WS_MAXIMIZEBOX)
+
+create_context()
+setup_registries()  # deprecated
+create_viewport()
+setup_dearpygui()
+show_viewport()
+
+with window():
+    add_text(default_value="for hoffi")
+    add_button(label="disable maximize", callback=disable_cb)
+    add_button(label="enable", callback=enable_cb)
+while is_dearpygui_running():
+    render_dearpygui_frame()
+destroy_context()
 ```
 
 # GUI
