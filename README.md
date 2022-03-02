@@ -24,6 +24,16 @@
 # DPG FAQ
 - [How to centre (center) text or align text to the right?](https://github.com/hoffstadt/DearPyGui/issues/1111)
 - [Programmatically change the active tab](https://github.com/hoffstadt/DearPyGui/discussions/1582)
+- [Example using threading, Asyncio, multiprocessing](https://github.com/fIux-dev/froyo/blob/f4a4a88b8f4cc910ecd9896aabacd5b71e3a76bd/source/engine.py)
+
+
+# High DPI on Windows
+```Python
+import ctypes
+# Include the following code before showing the viewport/calling `dearpygui.dearpygui.show_viewport`.
+ctypes.windll.shcore.SetProcessDpiAwareness(2)
+# You will likely need to increase the font size of the font you are using if this works. Let me know if it does. 
+```
 
 # GUI
 - [r/learnython GUI list](https://www.reddit.com/r/learnpython/wiki/faq)
