@@ -107,6 +107,7 @@ destroy_context()
 - Gimp
 - Krita
 - Inkscape
+- [Online SVG optimizer](https://www.svgviewer.dev/)
 
 
 ##  Creating video and GIFs
