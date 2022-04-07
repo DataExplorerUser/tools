@@ -130,6 +130,7 @@ destroy_context()
 - [Streamlit blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science) | [Streamlit tutorial](https://www.youtube.com/watch?v=TzF-OUA1Tlo)
 - [Pretty maps](https://github.com/marceloprates/prettymaps) | [Tutorial](https://www.youtube.com/watch?v=5za5I3kUuOI) | [Colab](https://colab.research.google.com/drive/18AHHSnb0lMamHPIjMhXEezBSkP-Pn6Pq?usp=sharing)
 - [CEF Python](https://github.com/cztomczak/cefpython#thanks-to-all-sponsors)
+- [DaFluffyPotato Explon't Froggg game](https://dafluffypotato.itch.io/explont)
 
 
 # Data management
