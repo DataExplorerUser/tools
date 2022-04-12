@@ -108,6 +108,7 @@ destroy_context()
 - Krita
 - Inkscape
 - [Online SVG optimizer](https://www.svgviewer.dev/)
+- [Make badges](https://img.shields.io/badge/make-badge-blue)
 
 
 ##  Creating video and GIFs
