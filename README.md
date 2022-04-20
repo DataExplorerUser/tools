@@ -30,6 +30,7 @@
 - An SVG editor to create code snippets for GitHub
 - A screenshot maker / editor for capturing DPG screenshots
 - DPG examples
+- Data analysis tool with Vaex
 
 # Code snippets
 
