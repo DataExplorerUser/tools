@@ -102,11 +102,6 @@ destroy_context()
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) | Rust wrapper around Python
 
 
-# ReadMe examples and ideas
-- [Appsmith](https://github.com/appsmithorg/appsmith)
-- [ReadMe templates](https://www.readme-templates.com/)
-
-
 ## Image editing
 - Gimp
 - Krita
