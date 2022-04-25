@@ -10,6 +10,7 @@
 - [DPG EXT](https://pypi.org/project/dearpygui-ext/)
 - [demo.py code](https://github.com/hoffstadt/DearPyGui/blob/master/DearPyGui/dearpygui/demo.py)
 - [Examples by Another Alex](https://github.com/yet-another-alex/dearpygui-examples)
+- [Examples by Illu](https://github.com/Mstpyt/DPG-Examples)
 - [Discord](https://discord.gg/tyE7Gu4)
 - [Reddit Python GUI](https://www.reddit.com/search/?q=python%20gui&sort=new)
 - [Reddit DearPyGui](https://www.reddit.com/r/DearPyGui/new/)
