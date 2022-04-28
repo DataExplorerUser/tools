@@ -28,6 +28,7 @@
 - [Example using threading, Asyncio, multiprocessing](https://github.com/fIux-dev/froyo/blob/f4a4a88b8f4cc910ecd9896aabacd5b71e3a76bd/source/engine.py)
 
 # Project ideas
+- Music Quiz app
 - An SVG editor to create code snippets for GitHub
 - A screenshot maker / editor for capturing DPG screenshots
 - DPG examples
