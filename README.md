@@ -102,8 +102,8 @@ destroy_context()
 
 
 # Audio
-- [PyMiniAudio](https://github.com/irmen/pyminiaudio) - Streams audio (MP3, FLAC, WAV). API is a bit difficult, see RMP for implementation. No dependencies.
-- [PlaySound2](https://pypi.org/project/playsound2/) - Basically PlaySound, but with an important bug fix.
+- [PyMiniAudio](https://github.com/irmen/pyminiaudio) - Stable audio player, Streams audio (MP3, FLAC, WAV). API is a bit difficult, see RMP for implementation example. Simple pip install, no dependencies. Because audio is streamed and not loaded into memory, there is a slight startup delay, so not suitable for game sounds.
+- [PlaySound2](https://pypi.org/project/playsound2/) - Basically PlaySound, but with an important bug fix. Simple pip install.
 - [AudioPlayer](https://github.com/mjbrusso/audioplayer/tree/v0.7) - Probably easiest API. Has library dependencies. Make sure to use version 0.7, not master branch.
 
 # Packaging Python apps
