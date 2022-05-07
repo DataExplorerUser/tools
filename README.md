@@ -80,6 +80,7 @@ while is_dearpygui_running():
 destroy_context()
 ```
 
+
 # GUI
 - [r/learnython GUI list](https://www.reddit.com/r/learnpython/wiki/faq)
 - [Overview of Python GUIs](https://wiki.python.org/moin/GuiProgramming)
@@ -93,10 +94,17 @@ destroy_context()
 - [PySimpleGui](https://pysimplegui.readthedocs.io/en/latest/)
 - [RenPy](https://www.renpy.org/)
 
+
 # Web frameworks
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Flask](https://github.com/pallets/flask)
 - [Django](https://github.com/django/django)
+
+
+# Audio
+- [PyMiniAudio](https://github.com/irmen/pyminiaudio) - Streams audio (MP3, FLAC, WAV). API is a bit difficult, see RMP for implementation. No dependencies.
+- [PlaySound2](https://pypi.org/project/playsound2/) - Basically PlaySound, but with an important bug fix.
+- [AudioPlayer](https://github.com/mjbrusso/audioplayer/tree/v0.7) - Probably easiest API. Has library dependencies. Make sure to use version 0.7, not master branch.
 
 # Packaging Python apps
 - [Nuitka]()
