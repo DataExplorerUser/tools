@@ -107,7 +107,7 @@ destroy_context()
 - [AudioPlayer](https://github.com/mjbrusso/audioplayer/tree/v0.7) - Probably easiest API. Has library dependencies. Make sure to use version 0.7, not master branch.
 
 # Packaging Python apps
-- [Nuitka]()
+- [Nuitka](https://nuitka.net/)
 - [Pyinstaller]()
 - [Auto Py2Exe](https://pypi.org/project/auto-py-to-exe/)
 - [Whitebox (MacOS)](http://s.sudre.free.fr/Software/Packages/about.html)
