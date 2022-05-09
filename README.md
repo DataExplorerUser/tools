@@ -149,6 +149,7 @@ destroy_context()
 - [Pandas](https://pandas.pydata.org/)
 - [Vaex](https://vaex.io/docs/index.html/)
 - [Datatable](https://datatable.readthedocs.io/en/latest/)
+- [Polars](https://pola-rs.github.io/polars/py-polars/html/index.html)
 
 
 # Data Exploration
