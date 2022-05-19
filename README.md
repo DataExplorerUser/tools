@@ -155,6 +155,7 @@ destroy_context()
 # Data Exploration
 - [Table Explore](https://dmnfarrell.github.io/tablexplore/)
 - [Pandas GUI](https://github.com/adamerose/pandasgui)
+- [MITO](https://github.com/mito-ds/monorepo)
 - [Dtale](https://github.com/man-group/dtale)
 - [Lux data exploration](https://github.com/lux-org/lux)
 - [Autoplotter](https://www.reddit.com/r/learnmachinelearning/comments/o83zgp/autoplotter_a_gui_based_exploratory_data_analysis/) | [GitHub](https://github.com/ersaurabhverma/autoplotter)
