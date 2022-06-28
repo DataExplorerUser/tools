@@ -112,6 +112,7 @@ destroy_context()
 - [Auto Py2Exe](https://pypi.org/project/auto-py-to-exe/)
 - [Whitebox (MacOS)](http://s.sudre.free.fr/Software/Packages/about.html)
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) | Rust wrapper around Python
+- [Inno Setup](https://jrsoftware.org/isinfo.php) Installer for Windows
 
 
 ## Image editing
