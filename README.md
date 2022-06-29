@@ -88,12 +88,17 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 ```
 
 ```Python
-# formatting text input
+# formatting text input with Python formatting
                     dpg.add_input_float(tag='tag_1',
                                         label="  ",
                                         format="%9.3f")
 ```
 
+```Python
+# hide values in a graph, chart, plot
+# just add format="" as an argument
+```
+ 
 # GUI
 - [r/learnython GUI list](https://www.reddit.com/r/learnpython/wiki/faq)
 - [Overview of Python GUIs](https://wiki.python.org/moin/GuiProgramming)
