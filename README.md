@@ -80,6 +80,12 @@ while is_dearpygui_running():
 destroy_context()
 ```
 
+```Python
+# Only update DPG when user changes something, on value changes and not render a frame at 60 FPS all the time
+https://dearpygui.readthedocs.io/en/latest/reference/dearpygui.html#dearpygui.dearpygui.configure_app
+
+dpg.configure_app(wait_for_input=True) to only update/render on user input!
+```
 
 # GUI
 - [r/learnython GUI list](https://www.reddit.com/r/learnpython/wiki/faq)
