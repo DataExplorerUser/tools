@@ -87,6 +87,13 @@ https://dearpygui.readthedocs.io/en/latest/reference/dearpygui.html#dearpygui.de
 dpg.configure_app(wait_for_input=True) to only update/render on user input!
 ```
 
+```Python
+# formatting text input
+                    dpg.add_input_float(tag='tag_1',
+                                        label="  ",
+                                        format="%9.3f")
+```
+
 # GUI
 - [r/learnython GUI list](https://www.reddit.com/r/learnpython/wiki/faq)
 - [Overview of Python GUIs](https://wiki.python.org/moin/GuiProgramming)
