@@ -126,6 +126,9 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 - [AudioPlayer](https://github.com/mjbrusso/audioplayer/tree/v0.7) - Probably easiest API. Has library dependencies. Make sure to use version 0.7, not master branch.
 - [Spotify Pedalboard](https://github.com/spotify/pedalboard)
 - [Pygame Drum machine](https://www.youtube.com/watch?v=F3J3PZj0zi0&feature=youtu.be)
+- [DawDreamer](https://github.com/DBraun/DawDreamer)
+- [JUCE](https://github.com/juce-framework/JUCE)
+- [Librosa](https://librosa.org/)
 
 # Packaging Python apps
 - [Nuitka](https://nuitka.net/)
