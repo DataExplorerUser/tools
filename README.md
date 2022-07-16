@@ -129,6 +129,7 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 - [DawDreamer](https://github.com/DBraun/DawDreamer)
 - [JUCE](https://github.com/juce-framework/JUCE)
 - [Librosa](https://librosa.org/)
+- [PyDub using FFMPEG](https://github.com/jiaaro/pydub/)
 
 # Packaging Python apps
 - [Nuitka](https://nuitka.net/)
