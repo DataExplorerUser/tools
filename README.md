@@ -27,6 +27,7 @@
 - [How to centre (center) text or align text to the right?](https://github.com/hoffstadt/DearPyGui/issues/1111)
 - [Programmatically change the active tab](https://github.com/hoffstadt/DearPyGui/discussions/1582)
 - [Example using threading, Asyncio, multiprocessing](https://github.com/fIux-dev/froyo/blob/f4a4a88b8f4cc910ecd9896aabacd5b71e3a76bd/source/engine.py)
+- [Alternative file picker/browser dialogue | xdialog](https://github.com/xMGZx/xdialog)
 
 # Project ideas
 - Music Quiz app
@@ -123,6 +124,8 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 - [PyMiniAudio](https://github.com/irmen/pyminiaudio) - Stable audio player, Streams audio (MP3, FLAC, WAV). API is a bit difficult, see RMP for implementation example. Simple pip install, no dependencies. Because audio is streamed and not loaded into memory, there is a slight startup delay, so not suitable for game sounds.
 - [PlaySound2](https://pypi.org/project/playsound2/) - Basically PlaySound, but with an important bug fix. Simple pip install.
 - [AudioPlayer](https://github.com/mjbrusso/audioplayer/tree/v0.7) - Probably easiest API. Has library dependencies. Make sure to use version 0.7, not master branch.
+- [Spotify Pedalboard](https://github.com/spotify/pedalboard)
+- [Pygame Drum machine](https://www.youtube.com/watch?v=F3J3PZj0zi0&feature=youtu.be)
 
 # Packaging Python apps
 - [Nuitka](https://nuitka.net/)
