@@ -123,7 +123,6 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 # Audio
 - [PyMiniAudio](https://github.com/irmen/pyminiaudio) - Stable audio player, Streams audio (MP3, FLAC, WAV). API is a bit difficult, see RMP for implementation example. Simple pip install, no dependencies. Because audio is streamed and not loaded into memory, there is a slight startup delay, so not suitable for game sounds.
 - [ Just_playback](https://github.com/cheofusi/just_playback) - audio player, also based on MiniAudio, with more convenient Python functions, including volume control and pause function.
-- [PyDub](https://github.com/jiaaro/pydub)
 - [PlaySound2](https://pypi.org/project/playsound2/) - Basically PlaySound, but with an important bug fix. Simple pip install.
 - [AudioPlayer](https://github.com/mjbrusso/audioplayer/tree/v0.7) - Probably easiest API. Has library dependencies. Make sure to use version 0.7, not master branch.
 - [Spotify Pedalboard](https://github.com/spotify/pedalboard)
@@ -131,7 +130,7 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 - [DawDreamer](https://github.com/DBraun/DawDreamer)
 - [JUCE](https://github.com/juce-framework/JUCE)
 - [Librosa](https://librosa.org/)
-- [PyDub using FFMPEG](https://github.com/jiaaro/pydub/)
+- [PyDub using FFMPEG](https://github.com/jiaaro/pydub/) - WAV and MP3 support built in. Other formats using FFMPEG
 
 # Packaging Python apps
 - [Nuitka](https://nuitka.net/)
