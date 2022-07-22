@@ -28,6 +28,7 @@
 - [Programmatically change the active tab](https://github.com/hoffstadt/DearPyGui/discussions/1582)
 - [Example using threading, Asyncio, multiprocessing](https://github.com/fIux-dev/froyo/blob/f4a4a88b8f4cc910ecd9896aabacd5b71e3a76bd/source/engine.py)
 - [Alternative file picker/browser dialogue | xdialog](https://github.com/xMGZx/xdialog)
+- [Coloured words in one sentence example](https://github.com/DataExplorerUser/coloured_words)
 
 # Project ideas
 - Music Quiz app
