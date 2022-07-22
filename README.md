@@ -132,7 +132,7 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 - [JUCE](https://github.com/juce-framework/JUCE)
 - [Librosa](https://librosa.org/)
 - [PyDub using FFMPEG](https://github.com/jiaaro/pydub/) - WAV and MP3 support built in. Other formats using FFMPEG
-- [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
+- [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/) - Python bindings for PortAudio v19, the cross-platform audio I/O library.
 
 # Packaging Python apps
 - [Nuitka](https://nuitka.net/)
