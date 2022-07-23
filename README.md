@@ -144,6 +144,7 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 
 
 ## Image editing
+- [Online UI colour picker - Coolers](https://coolors.co/)
 - Gimp
 - Krita
 - Inkscape
