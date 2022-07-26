@@ -208,6 +208,7 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 - [PyViz](https://pyviz.org/)
 - [HoloViz](https://holoviz.org/tutorial/index.html)
 - [Apache E-charts](https://echarts.apache.org/en/index.html) | [E-charts](https://github.com/apache/echarts) | [Py E-charts](https://pyecharts.org/#/en-us/charts_base)
+- [Graphical data graph story telling](https://github.com/vizzuhq/ipyvizzu-story)
 
 
 # Network graphs
