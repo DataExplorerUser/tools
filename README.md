@@ -39,6 +39,21 @@
 
 # Code snippets
 
+Theme padding in x and y direction
+```Python
+# When applying theme settings, e.g. padding, by default it affects the horizontal direction. For example, when using:
+
+    dpg.add_theme_style(dpg.mvStyleVar_FramePadding, 5, category=dpg.mvThemeCat_Core)
+
+# How do you apply the padding in the vertical direction?
+# Theme style elements have x and y arguments. Here, 5 is filling x.
+
+    dpg.add_theme_style(dpg.mvStyleVar_FramePadding, x=5, category=dpg.mvThemeCat_Core)
+    dpg.add_theme_style(dpg.mvStyleVar_FramePadding, y=10, category=dpg.mvThemeCat_Core)
+    dpg.add_theme_style(dpg.mvStyleVar_FramePadding, x=5, y=10, category=dpg.mvThemeCat_Core) # does that work?
+    
+```
+
 High DPI on Windows
 
 ```Python
