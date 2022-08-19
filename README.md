@@ -26,8 +26,8 @@
 # DPG apps
 - [PlayMovie](https://github.com/Elsammit/PlayMovie_CreatedInDearPy)
 - [Experiment control GUI for neutral atom array research group](https://github.com/ianvet31/EntanglewareGUI)
-- [https://github.com/Anurag-gg/Algorithm-visualizer](https://github.com/Anurag-gg/Algorithm-visualizer)
-- [https://github.com/carlobeni/Registration-System-with-DearPyGui-in-python](Registration system)
+- [Algorithm visualiser](https://github.com/Anurag-gg/Algorithm-visualizer)
+- [Registration system](https://github.com/carlobeni/Registration-System-with-DearPyGui-in-python)
 - [WeDX](https://github.com/motojinc25/WeDX)
 - [Sorting visualizer](https://github.com/YunusMaranki/SortingVisualizer)
 - [Calculator](https://github.com/Fus3n/dpg-calc)
