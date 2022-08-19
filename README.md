@@ -23,6 +23,16 @@
 
 [Solar tracker](https://github.com/iOsnaaente/Supervisorio_TrackerSolar) | [Searchable tag record](https://github.com/sharkbound/pythontools/tree/master/examples/dearpyguiapps/index_ui) | [ML app](https://github.com/JEENB/Machine-Learning-Using-Socket-Programming)  | [Ultime IOC Engine](https://github.com/SilverPlate3/Ultimate_IOC_Engine/issues/1) |  [Colorization](https://github.com/168762321/colorization/issues/19) | [Drag and drop Project mgt](https://github.com/Mstpyt/DPG-Examples/blob/main/drag_and_drop_project_chart.py) | [DPG GUI designer](https://github.com/shreenivasn99/dpgui-maker) | [Dear PyGui Map](https://github.com/mkouhia/dearpygui_map) | [Needle article](https://www.kcl.ac.uk/news/ultrasonic-tracking-novel-technology-identifies-tip-of-surgical-needle-during-surgeries) | [Matplotlib graph](https://github.com/RavenLabsNH/DekaDynoGUI) | [Hyperspectral Image Acquisition](https://mdpi-res.com/d_attachment/sensors/sensors-22-02159/article_deploy/sensors-22-02159-v2.pdf) | [Deka Dyno](https://github.com/RavenLabsNH/DekaDynoGUI) | [MagicaVoxel](https://github.com/DimasVoxel/MagicaVoxel-Animation-Script) | [martin_sistemi P1125](https://github.com/sistemicorp) | [Asset builder by mathgeniuszach](https://github.com/xMGZx/asset-builder) | [Crawl-Eat-Die Pygame / DPG by DeepBrown](https://github.com/OolongJunSun/Crawl-Eat-Die-Repeat) | [Quattro's Game of Life](https://github.com/QuattroMusic/DPG-Game-Of-Life) | [Image processing node editor](https://github.com/Kazuhito00/Image-Processing-Node-Editor/blob/main/README_EN.md) | [Image to PDF converter](https://gitlab.com/mr-fox-h/FDF) | [Game of life - High DPI](https://github.com/DataExplorerUser/game_of_life_high_DPI) | [Midi Explorer](https://github.com/EMATech/midiexplorer/) | [Lens simulation](https://github.com/yslib/Cameray)
 
+# DPG apps
+- [PlayMovie](https://github.com/Elsammit/PlayMovie_CreatedInDearPy)
+- [Experiment control GUI for neutral atom array research group](https://github.com/ianvet31/EntanglewareGUI)
+- [https://github.com/Anurag-gg/Algorithm-visualizer](https://github.com/Anurag-gg/Algorithm-visualizer)
+- [https://github.com/carlobeni/Registration-System-with-DearPyGui-in-python](Registration system)
+- [WeDX](https://github.com/motojinc25/WeDX)
+- [Better MQTT](https://github.com/xiaoqiang179/Better-MQTT)
+- [Sorting visualizer](https://github.com/YunusMaranki/SortingVisualizer)
+
+
 # DPG FAQ
 - [How to centre (center) text or align text to the right?](https://github.com/hoffstadt/DearPyGui/issues/1111)
 - [Programmatically change the active tab](https://github.com/hoffstadt/DearPyGui/discussions/1582)
@@ -38,6 +48,8 @@
 - Data analysis tool with Vaex
 
 # Code snippets
+
+- [Personal classes Marcus Castelo](https://github.com/marcuscastelo/dpgext)
 
 Theme padding in x and y direction
 ```Python
