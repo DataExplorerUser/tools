@@ -29,7 +29,6 @@
 - [https://github.com/Anurag-gg/Algorithm-visualizer](https://github.com/Anurag-gg/Algorithm-visualizer)
 - [https://github.com/carlobeni/Registration-System-with-DearPyGui-in-python](Registration system)
 - [WeDX](https://github.com/motojinc25/WeDX)
-- [Better MQTT](https://github.com/xiaoqiang179/Better-MQTT)
 - [Sorting visualizer](https://github.com/YunusMaranki/SortingVisualizer)
 - [Calculator](https://github.com/Fus3n/dpg-calc)
 - [Display Network Adapter](https://github.com/iwatake2222/networkx2dearpygui)
