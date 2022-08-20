@@ -142,6 +142,7 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 - [Remi](https://github.com/dddomodossola/remi)
 - [PySimpleGui](https://pysimplegui.readthedocs.io/en/latest/)
 - [RenPy](https://www.renpy.org/)
+- Wasabi2D
 
 
 # Web frameworks
