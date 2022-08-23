@@ -28,7 +28,6 @@
 - [Experiment control GUI for neutral atom array research group](https://github.com/ianvet31/EntanglewareGUI)
 - [Algorithm visualiser](https://github.com/Anurag-gg/Algorithm-visualizer)
 - [Registration system](https://github.com/carlobeni/Registration-System-with-DearPyGui-in-python)
-- [WeDX](https://github.com/motojinc25/WeDX)
 - [Sorting visualizer](https://github.com/YunusMaranki/SortingVisualizer)
 - [Calculator](https://github.com/Fus3n/dpg-calc)
 - [Display Network Adapter](https://github.com/iwatake2222/networkx2dearpygui)
