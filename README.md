@@ -27,7 +27,6 @@
 - [Calculator](https://github.com/Fus3n/dpg-calc)
 - [Matplotlib graph](https://github.com/RavenLabsNH/DekaDynoGUI)
 - [Image processing node editor](https://github.com/Kazuhito00/Image-Processing-Node-Editor/blob/main/README_EN.md)
-- [MagicaVoxel](https://github.com/DimasVoxel/MagicaVoxel-Animation-Script)
 
 - [Searchable tag record](https://github.com/sharkbound/pythontools/tree/master/examples/dearpyguiapps/index_ui)
 - [ML app](https://github.com/JEENB/Machine-Learning-Using-Socket-Programming)
