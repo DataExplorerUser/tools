@@ -19,18 +19,33 @@
 - [RMP Reddit](https://www.reddit.com/r/Python/comments/sp7ddv/my_first_project_raccoon_music_player_cute/)
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
-# Apps under development
-
-[Solar tracker](https://github.com/iOsnaaente/Supervisorio_TrackerSolar) | [Searchable tag record](https://github.com/sharkbound/pythontools/tree/master/examples/dearpyguiapps/index_ui) | [ML app](https://github.com/JEENB/Machine-Learning-Using-Socket-Programming)  | [Ultime IOC Engine](https://github.com/SilverPlate3/Ultimate_IOC_Engine/issues/1) |  [Colorization](https://github.com/168762321/colorization/issues/19) | [Drag and drop Project mgt](https://github.com/Mstpyt/DPG-Examples/blob/main/drag_and_drop_project_chart.py) | [Matplotlib graph](https://github.com/RavenLabsNH/DekaDynoGUI) |  | [Deka Dyno](https://github.com/RavenLabsNH/DekaDynoGUI) | [MagicaVoxel](https://github.com/DimasVoxel/MagicaVoxel-Animation-Script) | [martin_sistemi P1125](https://github.com/sistemicorp) |  [Crawl-Eat-Die Pygame / DPG by DeepBrown](https://github.com/OolongJunSun/Crawl-Eat-Die-Repeat) | [Quattro's Game of Life](https://github.com/QuattroMusic/DPG-Game-Of-Life) | [Image processing node editor](https://github.com/Kazuhito00/Image-Processing-Node-Editor/blob/main/README_EN.md) | [Image to PDF converter](https://gitlab.com/mr-fox-h/FDF) | [Game of life - High DPI](https://github.com/DataExplorerUser/game_of_life_high_DPI) | [Midi Explorer](https://github.com/EMATech/midiexplorer/) | [Lens simulation](https://github.com/yslib/Cameray)
-
 # DPG apps
-- [PlayMovie](https://github.com/Elsammit/PlayMovie_CreatedInDearPy)
-- [Experiment control GUI for neutral atom array research group](https://github.com/ianvet31/EntanglewareGUI)
+
+- [Game of life - High DPI](https://github.com/DataExplorerUser/game_of_life_high_DPI)
+- [Midi Explorer](https://github.com/EMATech/midiexplorer/) 
+- [martin_sistemi P1125](https://github.com/sistemicorp) 
+- [Calculator](https://github.com/Fus3n/dpg-calc)
+- [Matplotlib graph](https://github.com/RavenLabsNH/DekaDynoGUI)
+- [Image processing node editor](https://github.com/Kazuhito00/Image-Processing-Node-Editor/blob/main/README_EN.md)
+
+
+- [Searchable tag record](https://github.com/sharkbound/pythontools/tree/master/examples/dearpyguiapps/index_ui)
+- [ML app](https://github.com/JEENB/Machine-Learning-Using-Socket-Programming)
+- [Ultime IOC Engine](https://github.com/SilverPlate3/Ultimate_IOC_Engine/issues/1)
+- [Colorization](https://github.com/168762321/colorization/issues/19)
+- [Drag and drop Project mgt](https://github.com/Mstpyt/DPG-Examples/blob/main/drag_and_drop_project_chart.py)
+
+- [MagicaVoxel](https://github.com/DimasVoxel/MagicaVoxel-Animation-Script)
+- [Crawl-Eat-Die Pygame / DPG by DeepBrown](https://github.com/OolongJunSun/Crawl-Eat-Die-Repeat)
+- [Quattro's Game of Life](https://github.com/QuattroMusic/DPG-Game-Of-Life)
+
+- [Image to PDF converter](https://gitlab.com/mr-fox-h/FDF)
+- [Lens simulation](https://github.com/yslib/Cameray)
+
 - [Algorithm visualiser](https://github.com/Anurag-gg/Algorithm-visualizer)
 - [Registration system](https://github.com/carlobeni/Registration-System-with-DearPyGui-in-python)
 - [Sorting visualizer](https://github.com/YunusMaranki/SortingVisualizer)
-- [Calculator](https://github.com/Fus3n/dpg-calc)
-- [Display Network Adapter](https://github.com/iwatake2222/networkx2dearpygui)
+
 - [Sistemi DPG code patters](https://github.com/sistemicorp/b13-DPG_Code_patterns)
 
 
