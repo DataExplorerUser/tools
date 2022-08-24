@@ -28,15 +28,6 @@
 - [Matplotlib graph](https://github.com/RavenLabsNH/DekaDynoGUI)
 - [Image processing node editor](https://github.com/Kazuhito00/Image-Processing-Node-Editor/blob/main/README_EN.md)
 
-- [Searchable tag record](https://github.com/sharkbound/pythontools/tree/master/examples/dearpyguiapps/index_ui)
-- [ML app](https://github.com/JEENB/Machine-Learning-Using-Socket-Programming)
-- [Ultime IOC Engine](https://github.com/SilverPlate3/Ultimate_IOC_Engine/issues/1)
-- [Colorization](https://github.com/168762321/colorization/issues/19)
-- [Drag and drop Project mgt](https://github.com/Mstpyt/DPG-Examples/blob/main/drag_and_drop_project_chart.py)
-
-- [Crawl-Eat-Die Pygame / DPG by DeepBrown](https://github.com/OolongJunSun/Crawl-Eat-Die-Repeat)
-
-
 
 # Small DPG apps
 - [Image to PDF converter](https://gitlab.com/mr-fox-h/FDF)
@@ -52,6 +43,9 @@
 - [Alternative file picker/browser dialogue | xdialog](https://github.com/xMGZx/xdialog)
 - [Coloured words in one sentence example](https://github.com/DataExplorerUser/coloured_words)
 - [Sistemi DPG code patterms](https://github.com/sistemicorp/b13-DPG_Code_patterns)
+- [Drag and drop Project mgt](https://github.com/Mstpyt/DPG-Examples/blob/main/drag_and_drop_project_chart.py)
+- [Searchable tag record](https://github.com/sharkbound/pythontools/tree/master/examples/dearpyguiapps/index_ui)
+
 
 # Project ideas
 - Music Quiz app
