@@ -22,12 +22,12 @@
 # DPG apps
 
 - [Game of life - High DPI](https://github.com/DataExplorerUser/game_of_life_high_DPI)
-- [Midi Explorer](https://github.com/EMATech/midiexplorer/) 
-- [martin_sistemi P1125](https://github.com/sistemicorp) 
+- [Midi Explorer](https://github.com/EMATech/midiexplorer/)
+- [martin_sistemi P1125](https://github.com/sistemicorp)
 - [Calculator](https://github.com/Fus3n/dpg-calc)
 - [Matplotlib graph](https://github.com/RavenLabsNH/DekaDynoGUI)
 - [Image processing node editor](https://github.com/Kazuhito00/Image-Processing-Node-Editor/blob/main/README_EN.md)
-
+- [MagicaVoxel](https://github.com/DimasVoxel/MagicaVoxel-Animation-Script)
 
 - [Searchable tag record](https://github.com/sharkbound/pythontools/tree/master/examples/dearpyguiapps/index_ui)
 - [ML app](https://github.com/JEENB/Machine-Learning-Using-Socket-Programming)
@@ -35,18 +35,15 @@
 - [Colorization](https://github.com/168762321/colorization/issues/19)
 - [Drag and drop Project mgt](https://github.com/Mstpyt/DPG-Examples/blob/main/drag_and_drop_project_chart.py)
 
-- [MagicaVoxel](https://github.com/DimasVoxel/MagicaVoxel-Animation-Script)
+
 - [Crawl-Eat-Die Pygame / DPG by DeepBrown](https://github.com/OolongJunSun/Crawl-Eat-Die-Repeat)
 - [Quattro's Game of Life](https://github.com/QuattroMusic/DPG-Game-Of-Life)
-
 - [Image to PDF converter](https://gitlab.com/mr-fox-h/FDF)
 - [Lens simulation](https://github.com/yslib/Cameray)
-
 - [Algorithm visualiser](https://github.com/Anurag-gg/Algorithm-visualizer)
 - [Registration system](https://github.com/carlobeni/Registration-System-with-DearPyGui-in-python)
 - [Sorting visualizer](https://github.com/YunusMaranki/SortingVisualizer)
 
-- [Sistemi DPG code patters](https://github.com/sistemicorp/b13-DPG_Code_patterns)
 
 
 # DPG FAQ
@@ -55,6 +52,7 @@
 - [Example using threading, Asyncio, multiprocessing](https://github.com/fIux-dev/froyo/blob/f4a4a88b8f4cc910ecd9896aabacd5b71e3a76bd/source/engine.py)
 - [Alternative file picker/browser dialogue | xdialog](https://github.com/xMGZx/xdialog)
 - [Coloured words in one sentence example](https://github.com/DataExplorerUser/coloured_words)
+- [Sistemi DPG code patterms](https://github.com/sistemicorp/b13-DPG_Code_patterns)
 
 # Project ideas
 - Music Quiz app
