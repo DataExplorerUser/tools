@@ -35,16 +35,16 @@
 - [Colorization](https://github.com/168762321/colorization/issues/19)
 - [Drag and drop Project mgt](https://github.com/Mstpyt/DPG-Examples/blob/main/drag_and_drop_project_chart.py)
 
-
 - [Crawl-Eat-Die Pygame / DPG by DeepBrown](https://github.com/OolongJunSun/Crawl-Eat-Die-Repeat)
-- [Quattro's Game of Life](https://github.com/QuattroMusic/DPG-Game-Of-Life)
+
+
+
+# Small DPG apps
 - [Image to PDF converter](https://gitlab.com/mr-fox-h/FDF)
 - [Lens simulation](https://github.com/yslib/Cameray)
 - [Algorithm visualiser](https://github.com/Anurag-gg/Algorithm-visualizer)
 - [Registration system](https://github.com/carlobeni/Registration-System-with-DearPyGui-in-python)
 - [Sorting visualizer](https://github.com/YunusMaranki/SortingVisualizer)
-
-
 
 # DPG FAQ
 - [How to centre (center) text or align text to the right?](https://github.com/hoffstadt/DearPyGui/issues/1111)
