@@ -25,12 +25,11 @@
 - [Midi Explorer](https://github.com/EMATech/midiexplorer/)
 - [martin_sistemi P1125](https://github.com/sistemicorp)
 
-- [Matplotlib graph](https://github.com/RavenLabsNH/DekaDynoGUI)
 - [Image processing node editor](https://github.com/Kazuhito00/Image-Processing-Node-Editor/issues/13)
 
 
 # Small DPG apps
-- [DekaGUI](https://github.com/RavenLabsNH/DekaDynoGUI/issues/3#issuecomment-1225876065) | Demo with data stream with multiprocessing
+- [DekaGUI](https://github.com/RavenLabsNH/DekaDynoGUI/issues/3#issuecomment-1225876065) | Demo with data stream with multiprocessing + Matplotib
 - [Calculator](https://github.com/Fus3n/dpg-calc)
 - [Image to PDF converter](https://gitlab.com/mr-fox-h/FDF)
 - [Lens simulation](https://github.com/yslib/Cameray)
