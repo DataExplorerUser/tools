@@ -25,8 +25,6 @@
 - [Midi Explorer](https://github.com/EMATech/midiexplorer/)
 - [martin_sistemi P1125](https://github.com/sistemicorp)
 
-- [Image processing node editor](https://github.com/Kazuhito00/Image-Processing-Node-Editor/issues/13)
-
 
 # Small DPG apps
 - [DekaGUI](https://github.com/RavenLabsNH/DekaDynoGUI/issues/3#issuecomment-1225876065) | Demo with data stream with multiprocessing + Matplotib
