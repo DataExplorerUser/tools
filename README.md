@@ -147,6 +147,7 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 - [PySimpleGui](https://pysimplegui.readthedocs.io/en/latest/)
 - [RenPy](https://www.renpy.org/)
 - Wasabi2D
+- [p3ui](https://github.com/0lru/p3ui) | Python binding to IMGUI focused on reducing frame rates
 
 
 # Web frameworks
