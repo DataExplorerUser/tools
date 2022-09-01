@@ -26,6 +26,7 @@
 - [turnroot tactical RPGs](https://github.com/josephclaytonhansen/turnroot/tree/main/dpg)
 - [Athena Game Library](https://github.com/DirectiveAthena/AthenaDPGLib)
 - [martin_sistemi P1125](https://github.com/sistemicorp)
+- [Trading bot](https://github.com/Gus-The-Forklift-Driver/TradingBotV2)
 
 
 # Small DPG apps
