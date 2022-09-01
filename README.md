@@ -24,6 +24,7 @@
 - [Game of life - High DPI](https://github.com/DataExplorerUser/game_of_life_high_DPI)
 - [Midi Explorer](https://github.com/EMATech/midiexplorer/)
 - [turnroot tactical RPGs](https://github.com/josephclaytonhansen/turnroot/tree/main/dpg)
+- [Athena Game Library](https://github.com/DirectiveAthena/AthenaDPGLib)
 - [martin_sistemi P1125](https://github.com/sistemicorp)
 
 
