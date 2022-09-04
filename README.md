@@ -174,6 +174,29 @@ dpg.set_primary_window("Table", True)
 dpg.start_dearpygui()
 dpg.destroy_context()
 ```
+
+
+```python
+# Updating listbox after creation DPG
+import dearpygui.dearpygui as dpg
+
+def new_list_box_item():
+    listbox = dpg.get_item_configuration("lbox")['items']
+    listbox.append(str(len(listbox)+1))
+    dpg.configure_item("lbox", items=listbox)
+
+dpg.create_context()
+dpg.create_viewport(title='Custom Title', width=600, height=300)
+with dpg.window(label="Example Window"):
+    dpg.add_listbox(items=['1', '2'], tag="lbox")
+    dpg.add_button(label="New listbox_item", callback=new_list_box_item)
+
+dpg.show_metrics()
+dpg.setup_dearpygui()
+dpg.show_viewport()
+dpg.start_dearpygui()
+dpg.destroy_context()
+```
  
 # GUI
 - [r/learnython GUI list](https://www.reddit.com/r/learnpython/wiki/faq)
