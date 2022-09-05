@@ -197,6 +197,8 @@ dpg.show_viewport()
 dpg.start_dearpygui()
 dpg.destroy_context()
 ```
+
+- [Play video with DPG article](https://diogoaos.medium.com/display-video-in-a-python-gui-with-dear-pygui-6649edb9fafd)
  
 # GUI
 - [r/learnython GUI list](https://www.reddit.com/r/learnpython/wiki/faq)
