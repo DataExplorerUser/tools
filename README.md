@@ -198,6 +198,25 @@ dpg.start_dearpygui()
 dpg.destroy_context()
 ```
 
+```Python
+# center / centre a window in DPG
+def render_window_center(sender, app_data, user_data):
+    if dpg.does_item_exist(user_data):
+        main_width = dpg.get_viewport_width()
+        main_height = dpg.get_viewport_height()
+        login_width = dpg.get_item_width(user_data)
+        login_height = dpg.get_item_height(user_data)
+        dpg.set_item_pos(user_data, [int((main_width // 2 - login_width // 2)),
+                                     int((main_height / 2 - login_height / 2))])
+
+with window() as window_auth:
+    with dpg.group(horizontal=True):
+      pass
+        with dpg.item_handler_registry(tag=dpg.generate_uuid()) as handler:
+            dpg.add_item_visible_handler(callback=render_window_center, parent=handler, user_data=window_auth)
+        dpg.bind_item_handler_registry(item=window_auth, handler_registry=handler)
+```
+
 - [Play video with DPG article](https://diogoaos.medium.com/display-video-in-a-python-gui-with-dear-pygui-6649edb9fafd)
  
 # GUI
