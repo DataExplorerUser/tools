@@ -175,7 +175,7 @@ dpg.start_dearpygui()
 dpg.destroy_context()
 ```
 
-```
+```python
 # Select table row callback
 import dearpygui.dearpygui as dpg
 
