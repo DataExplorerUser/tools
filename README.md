@@ -211,10 +211,11 @@ def render_window_center(sender, app_data, user_data):
 
 with window() as window_auth:
     with dpg.group(horizontal=True):
-      pass
-        with dpg.item_handler_registry(tag=dpg.generate_uuid()) as handler:
-            dpg.add_item_visible_handler(callback=render_window_center, parent=handler, user_data=window_auth)
-        dpg.bind_item_handler_registry(item=window_auth, handler_registry=handler)
+        dpg.add_text()
+        dpg.add_input_text()
+    with dpg.item_handler_registry(tag=dpg.generate_uuid()) as handler:
+        dpg.add_item_visible_handler(callback=render_window_center, parent=handler, user_data=window_auth)
+    dpg.bind_item_handler_registry(item=window_auth, handler_registry=handler)
 ```
 
 - [Play video with DPG article](https://diogoaos.medium.com/display-video-in-a-python-gui-with-dear-pygui-6649edb9fafd)
