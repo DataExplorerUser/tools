@@ -256,6 +256,44 @@ with window() as window_auth:
     dpg.bind_item_handler_registry(item=window_auth, handler_registry=handler)
 ```
 
+```Python
+# I have problem with letters "ёЁ". When I try to write "ё", I get "¸". How can i fix this?
+# support for Ukrainian (cyrillic) characters (to console)
+
+# chars_remap = {OLD: NEW}
+chars_remap = {0x00A8: 0x0401,  # Ё
+               0x00B8: 0x0451,  # ё
+               0x00AF: 0x0407,  # Ї
+               0x00BF: 0x0457,  # ї
+               0x00B2: 0x0406,  # І
+               0x00B3: 0x0456,  # і
+               0x00AA: 0x0404,  # Є
+               0x00BA: 0x0454}  # є
+with dpg.font_registry():
+    with dpg.font("{FONT}", 20) as default_font:
+        dpg.add_font_range_hint(dpg.mvFontRangeHint_Default)
+        dpg.add_font_range_hint(dpg.mvFontRangeHint_Cyrillic)
+        biglet = remap_big_let  # Starting number for remapped cyrillic alphabet
+        for i1 in range(big_let_start, big_let_end + 1):  # Cycle through big letters in cyrillic alphabet
+            dpg.add_char_remap(i1, biglet)  # Remap the big cyrillic letter
+            dpg.add_char_remap(i1 + alph_len, biglet + alph_len)  # Remap the small cyrillic letter
+            biglet += 1  # choose next letter
+        for char in chars_remap.keys():
+            dpg.add_char_remap(char, chars_remap[char])
+
+with dpg.window(label="Тест", height=200, width=200):
+    def to_cyr(instr):  # conversion function
+        out = []  # start with empty output
+        for i in range(0, len(instr)):  # cycle through letters in input string
+            if ord(instr[i]) in chars_remap:
+                out.append(chr(chars_remap[ord(instr[i])]))
+            elif ord(instr[i]) in range(big_let_start, small_let_end + 1):  # check if the letter is cyrillic
+                out.append(chr(ord(instr[i]) + alph_shift))  # if it is change it and add to output list
+            else:
+                out.append(instr[i])
+        return ''.join(out)
+```
+
 - [Play video with DPG article](https://diogoaos.medium.com/display-video-in-a-python-gui-with-dear-pygui-6649edb9fafd)
  
 # GUI
