@@ -294,6 +294,210 @@ with dpg.window(label="Тест", height=200, width=200):
         return ''.join(out)
 ```
 
+```Python
+# Currency graphs
+
+import dearpygui.dearpygui as dpg
+from Giang_Project.forex_workspace.forex_lib.lib import *
+from dpg_theme_config import style
+dpg.create_context(); style()
+
+# ----------------------------------------------------------------------------------------------------------------------
+ccy_ = ["AUD", "CAD", "CHF", "EUR", "GBP", "JPY", "NZD", "USD"]
+ccy_7 = ["AUD", "CAD", "CHF", "EUR", "GBP", "JPY", "NZD"]
+plot_, x_axis_, y_axis_, bar_, bar_theme_ = [], [], [], ["bar_series" + str(i) for i in range(0, 7)], []
+color = [[0, 128, 000, 255], [139, 69, 19, 255], [255, 255, 000, 255], [255, 105, 150, 255],
+         [220, 20, 60, 255], [153, 50, 204, 255], [100, 149, 237, 255], [255, 255, 255, 255]]
+
+with dpg.theme() as ema_theme_:
+    with dpg.theme_component():
+        dpg.add_theme_color(dpg.mvPlotCol_Line, [255, 150, 50, 255], category=dpg.mvThemeCat_Plots)
+for i in color:
+    with dpg.theme() as theme:
+        with dpg.theme_component():
+            dpg.add_theme_color(dpg.mvPlotCol_Line, i, category=dpg.mvThemeCat_Plots)
+            dpg.add_theme_color(dpg.mvPlotCol_Fill, i, category=dpg.mvThemeCat_Plots)
+            dpg.add_theme_color(dpg.mvThemeCol_FrameBg, i, category=0)
+    bar_theme_.append(theme)
+# bar_theme_.pop() after bind checkbox
+
+with dpg.window(label="EMA 200 DashBoard", tag="primary_window", width=800, height=600,
+                no_close=True, no_resize=True, no_move=True):
+    with dpg.group(horizontal=True):  # select base currency
+        for i in range(0, 8):
+            dpg.add_checkbox(label=ccy_[i], tag=ccy_[i]+"_checkbox_", default_value=False)
+            print(ccy_[i])
+            dpg.bind_item_theme(ccy_[i]+"_checkbox_", bar_theme_[i])
+            dpg.add_spacer(width=30)
+        dpg.configure_item("USD_checkbox_", default_value=True)
+        bar_theme_.pop()
+    with dpg.group(horizontal=True):
+        dpg.add_text("bars")
+        dpg.add_input_text(width=50, default_value="1000", on_enter=True, tag="bars_input_")
+        dpg.add_input_text(width=50, default_value="H1", on_enter=True, tag="timeframe_input_")
+        dpg.add_spacer(width=30)
+        dpg.add_text("EMA period: ")
+        dpg.add_input_text(width=50, default_value="50", on_enter=True, tag="ema_period_input")
+
+    # with dpg.child_window(width=1000, height=1400):
+    def drag_point_callback(sender, app_data, user_data):
+        for i in range(0, 7):
+            if dpg.get_item_alias(sender)[-1] == i:
+                pass
+
+            close_ = rate_close(symbol=dpg.get_value("symbol_input"), tf=dpg.get_value("timeframe_input_"),
+                                bars=int(dpg.get_value("bars_input_")), source="close")
+            if dpg.get_item_alias(sender)[20:24] == "main":
+                dpg.configure_item("vertical_drag_point_main" + str(i), default_value=dpg.get_value(sender))
+                dpg.configure_item("horizontal_drag_point_chart", default_value=close_[round(dpg.get_value(sender))])
+            if dpg.get_item_alias(sender)[20:25] == "begin":
+                dpg.configure_item("vertical_drag_point_begin" + str(i), default_value=dpg.get_value(sender))
+            if dpg.get_item_alias(sender)[20:23] == "end":
+                dpg.configure_item("vertical_drag_point_end" + str(i), default_value=dpg.get_value(sender))
+    for i in range(0, 7):
+        with dpg.child_window(tag="EMA_" + str(i), width=1000, height=180, no_scrollbar=True, border=False):
+            with dpg.plot(label="", tag="plot_" + str(i),
+                          width=-1, height=-1,
+                          no_title=True, no_menus=True, no_box_select=True, no_mouse_pos=False,
+                          no_highlight=False, no_child=False, query=False, crosshairs=False,
+                          anti_aliased=True, equal_aspects=False):
+                dpg.add_drag_line(label="", default_value=0, vertical=False, thickness=4, color=[255, 0, 0, 255])
+
+                dpg.add_drag_line(label="", tag="vertical_drag_point_main" + str(i),
+                                  default_value=0, vertical=True, thickness=2, color=[255, 255, 255, 255])
+
+                dpg.add_drag_line(label="", tag="vertical_drag_point_begin" + str(i),
+                                  default_value=0, vertical=True, thickness=2, color=[0, 0, 255, 255])
+                dpg.add_drag_line(label="", tag="vertical_drag_point_end" + str(i),
+                                  default_value=0, vertical=True, thickness=2, color=[0, 0, 255, 255])
+
+                dpg.set_item_callback("vertical_drag_point_main" + str(i), callback=lambda s, a, u: [
+                    drag_point_callback(s, a, u), dpg.configure_item(
+                        "vertical_drag_point_chart", default_value=dpg.get_value(s))])
+                dpg.set_item_callback("vertical_drag_point_begin" + str(i), drag_point_callback)
+                dpg.set_item_callback("vertical_drag_point_end" + str(i), drag_point_callback)
+
+                with dpg.plot_axis(dpg.mvXAxis, label="", tag="X_" + str(i),
+                                   no_tick_labels=True, no_gridlines=True, no_tick_marks=True): pass
+                with dpg.plot_axis(dpg.mvYAxis, label="", tag="Y_" + str(i),
+                                   no_tick_labels=True, no_gridlines=True, no_tick_marks=True):
+                    dpg.add_bar_series(x=[0, 1, 2], y=[0, 1, 2], tag="bar_series" + str(i))
+
+        plot_.append("EMA_" + str(i))
+        x_axis_.append("X_" + str(i))
+        y_axis_.append("Y_" + str(i))
+        bar_.append("bar_series" + str(i))
+
+
+    def update_chart():  # no s, a, u
+        high_ = rate_close(symbol=dpg.get_value("symbol_input"), tf=dpg.get_value("timeframe_input_"),
+                           bars=int(dpg.get_value("bars_input_")), source="high")
+        low_ = rate_close(symbol=dpg.get_value("symbol_input"), tf=dpg.get_value("timeframe_input_"),
+                          bars=int(dpg.get_value("bars_input_")), source="low")
+        # close_ = rate_close(symbol=dpg.get_value("symbol_input"), tf=dpg.get_value("timeframe_input_"),
+        #                     bars=int(dpg.get_value("bars_input_")), source="close")
+        # ema_ = ta.EMA(np.array(close_), int(dpg.get_value("ema_period_input")))
+        dpg.configure_item("high_line", x=[x for x in range(len(high_))], y=high_)
+        dpg.configure_item("low_line", x=[x for x in range(len(low_))], y=low_)
+        dpg.configure_item("ema_high_line", x=[x for x in range(len(low_))],
+                           y=ta.EMA(np.array(high_), int(dpg.get_value("ema_period_input"))))
+        dpg.configure_item("ema_low_line", x=[x for x in range(len(low_))],
+                           y=ta.EMA(np.array(low_), int(dpg.get_value("ema_period_input"))))
+        dpg.fit_axis_data("X_main")
+        dpg.fit_axis_data("Y_main")
+    def refresh_ema(sender=None, app_data=None, user_data=None):
+        bars = int(dpg.get_value("bars_input_"))
+        time_frame = dpg.get_value("timeframe_input_")
+        ema_period = int(dpg.get_value("ema_period_input"))
+        print(bars, time_frame)
+        for a, b, c, d, e, f, g in zip(plot_, x_axis_, y_axis_, bar_, ccy_7, [str(_) for _ in range(0, 7)], bar_theme_):
+            if not mt5.initialize(r"C:\Program Files\FBS MetaTrader 5\terminal64.exe"):
+                _ = [print("initialize() failed, error code =", mt5.last_error()), mt5.shutdown()]
+            if e == "CHF" or e == "JPY" or e == "CAD":
+                data_high = rate_close("USD" + e, bars=bars, tf=time_frame, source="high")
+                data_high = [1 / x for x in data_high]
+                data_low = rate_close("USD" + e, bars=bars, tf=time_frame, source="high")
+                data_low = [1 / x for x in data_low]
+                data_close = rate_close("USD" + e, bars=bars, tf=time_frame, source="close")
+                data_close = [1 / x for x in data_close]
+            else:
+                data_high = rate_close(e + "USD", bars=bars, tf=time_frame, source="high")
+                data_low = rate_close(e + "USD", bars=bars, tf=time_frame, source="low")
+                data_close = rate_close(e + "USD", bars=bars, tf=time_frame, source="close")
+
+            ema_200 = ta.EMA(np.array(data_close), ema_period)
+            # final_ = [x - y for x, y in zip(data_close, ema_200)]
+            final_ = [h_ - e_ if c_ > e_ else l_ - e_ for h_, l_, c_, e_ in zip(data_high, data_low, data_close, ema_200)]
+
+            if dpg.does_item_exist(d):
+                dpg.delete_item(d)
+                print("ok")
+            dpg.add_bar_series(x=[z for z in range(0, bars)], y=final_, tag="bar_series" + str(f), parent=c)
+            dpg.bind_item_theme("bar_series" + str(f), g)
+            dpg.fit_axis_data(b)
+            dpg.fit_axis_data(c)
+            update_chart()
+
+    def update_drag_point():
+        for i in range(0, 7):
+            dpg.configure_item("vertical_drag_point_main" + str(i), default_value=int(dpg.get_value("bars_input_")) / 2)
+            dpg.configure_item("vertical_drag_point_begin" + str(i), default_value=int(dpg.get_value("ema_period_input")))
+            dpg.configure_item("vertical_drag_point_end" + str(i), default_value=int(dpg.get_value("bars_input_")) -
+                               int(dpg.get_value("bars_input_")))
+
+    dpg.set_item_callback("bars_input_", callback=lambda s, a, u: [update_drag_point(), refresh_ema(s, a, u)])
+    dpg.set_item_callback("timeframe_input_", callback=lambda s, a, u: [update_drag_point(), refresh_ema(s, a, u)])
+    dpg.set_item_callback("ema_period_input", callback=lambda s, a, u: [update_drag_point(), refresh_ema(s, a, u)])
+
+with dpg.window(label="Chart", tag="main_chart", width=3000, height=650, pos=[0, 1350],
+                no_resize=True, no_close=True, no_move=True, collapsed=False):
+    with dpg.group(horizontal=True):
+        dpg.add_text("Symbol: ")
+        dpg.add_input_text(tag="symbol_input", width=50, default_value="EURUSD")
+        dpg.add_spacer(width=50)
+        dpg.add_text("DashBoard Base currency: --> ")
+        dpg.add_input_text(width=50, label="", default_value="USD")
+    with dpg.child_window(width=1000, height=600, border=False):
+        with dpg.plot(label="", width=-1, height=-1,
+                      no_title=True, no_menus=True, no_box_select=True, no_mouse_pos=False,
+                      no_highlight=False, no_child=False, query=False, crosshairs=False,
+                      anti_aliased=True, equal_aspects=False):
+            dpg.add_drag_line(label="", tag="vertical_drag_point_chart",
+                              default_value=0, vertical=True, thickness=2, color=[255, 255, 255, 255])
+            dpg.add_drag_line(label="", tag="horizontal_drag_point_chart",
+                              default_value=0, vertical=False, thickness=2, color=[255, 255, 255, 255])
+
+            with dpg.plot_axis(dpg.mvXAxis, label="", tag="X_main",
+                               no_tick_labels=True, no_gridlines=True, no_tick_marks=True): pass
+            with dpg.plot_axis(dpg.mvYAxis, label="", tag="Y_main",
+                               no_tick_labels=True, no_gridlines=True, no_tick_marks=True):
+                dpg.add_line_series(x=[0, 1, 2, 3, 4], y=[0, 1, 2, 3, 4], tag="high_line", parent="Y_main")
+                dpg.add_line_series(x=[0, 1, 2, 3, 4], y=[0, 1, 2, 3, 4], tag="low_line", parent="Y_main")
+                dpg.add_line_series(x=[0, 1, 2, 3, 4], y=[0, 1, 2, 3, 4], tag="ema_high_line", parent="Y_main")
+                dpg.add_line_series(x=[0, 1, 2, 3, 4], y=[0, 1, 2, 3, 4], tag="ema_low_line", parent="Y_main")
+                dpg.bind_item_theme("high_line", bar_theme_[0])
+                dpg.bind_item_theme("low_line", bar_theme_[4])
+                dpg.bind_item_theme("ema_high_line", ema_theme_)
+                dpg.bind_item_theme("ema_low_line", ema_theme_)
+
+# ----------------------------------------------------------------------------------------------------------------------
+dpg.create_viewport(title="EMA 200 DashBoard", width=1064, height=2107, x_pos=0, y_pos=12)
+dpg.set_primary_window("primary_window", True)
+with dpg.theme() as primary_window_theme:
+    with dpg.theme_component(dpg.mvThemeCat_Core):
+        dpg.add_theme_style(dpg.mvStyleVar_WindowBorderSize, 0, category=dpg.mvThemeCat_Core)
+        dpg.bind_item_theme("primary_window", primary_window_theme)
+dpg.setup_dearpygui()
+dpg.show_viewport()
+while dpg.is_dearpygui_running():
+    dpg.render_dearpygui_frame()
+
+# ----------------------------------------------------------------------------------------------------------------------
+dpg.destroy_context()
+
+
+```
+
 - [Play video with DPG article](https://diogoaos.medium.com/display-video-in-a-python-gui-with-dear-pygui-6649edb9fafd)
  
 # GUI
