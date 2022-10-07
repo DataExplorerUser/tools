@@ -38,6 +38,8 @@
 - [Registration system](https://github.com/carlobeni/Registration-System-with-DearPyGui-in-python)
 - [Sorting visualizer](https://github.com/YunusMaranki/SortingVisualizer)
 - [Video format converter](https://github.com/philliphqs/allconv)
+- [ez Notes](https://github.com/Brandon82/DPG-ezNotes)
+- [cForm](https://github.com/ReaseRZ/CForm)
 
 # DPG FAQ
 - [How to centre (center) text or align text to the right?](https://github.com/hoffstadt/DearPyGui/issues/1111)
