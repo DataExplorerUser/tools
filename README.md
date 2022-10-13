@@ -520,6 +520,30 @@ for event in events:
         event()
 ```
 
+```Python
+# You can do so manually events = [event1, event2, ] or through other DPG callbacks.
+# Instead of changing the state of a global variable and having a conditional check 
+# in the main loop, you append the event to the list instead. The "state" in this 
+# case is simply the callback existing in the container. 
+
+# Clicking the button will either add  render_callback to events 
+# (scheduling it to run) or will remove it.
+
+events = [] 
+
+def render_event():
+   ... 
+
+def button_callback():
+    if render_event not in events:
+        events.append(render_event)
+    else:
+        events.remove(render_event)
+
+with dpg.window():
+    button1 = dpg.add_button(callback=button_callback)
+```
+
 - [Play video with DPG article](https://diogoaos.medium.com/display-video-in-a-python-gui-with-dear-pygui-6649edb9fafd)
  
 # GUI
