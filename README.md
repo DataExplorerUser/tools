@@ -498,8 +498,26 @@ while dpg.is_dearpygui_running():
 
 # ----------------------------------------------------------------------------------------------------------------------
 dpg.destroy_context()
+```
 
+```Python
+# add function or other callable to list of events
+# execute events based on a list
+# useful for maintaining a list of events
+# that should run as part of the event loop
+# events can be added to or removed from
+# the list at runtime
 
+def function_1():
+  print("""Let's go!""")
+
+def function_2():
+  print("""Bye!""")
+
+events = [function_1, function_2]
+
+for event in events:
+        event()
 ```
 
 - [Play video with DPG article](https://diogoaos.medium.com/display-video-in-a-python-gui-with-dear-pygui-6649edb9fafd)
