@@ -60,6 +60,7 @@
 - A screenshot maker / editor for capturing DPG screenshots
 - DPG examples
 - Data analysis tool with Vaex
+- OpenCV image editor (various blurs and options using sliders, before & after image)
 
 # Code snippets
 
