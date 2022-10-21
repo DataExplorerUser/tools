@@ -559,7 +559,7 @@ with dpg.window():
 - [Remi](https://github.com/dddomodossola/remi)
 - [PySimpleGui](https://pysimplegui.readthedocs.io/en/latest/)
 - [RenPy](https://www.renpy.org/)
-- Wasabi2D
+- [Wasabi2D](https://github.com/lordmauve/wasabi2d)
 - [p3ui](https://github.com/0lru/p3ui) | Python binding to IMGUI focused on reducing frame rates
 
 
