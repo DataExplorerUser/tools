@@ -144,7 +144,8 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 ```
 
 ```python
-# Select table cell and get data
+# Select table row and get data callback
+
 import dearpygui.dearpygui as dpg
 
 dpg.create_context()
@@ -182,7 +183,8 @@ dpg.destroy_context()
 ```
 
 ```python
-# Select table row callback
+# Select table cell and get data callback
+
 import dearpygui.dearpygui as dpg
 
 dpg.create_context()
