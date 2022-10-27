@@ -42,6 +42,7 @@
 - [Video format converter](https://github.com/philliphqs/allconv)
 - [ez Notes](https://github.com/Brandon82/DPG-ezNotes)
 - [cForm](https://github.com/ReaseRZ/CForm)
+- [SYSIG](https://github.com/diamant3/SYSIG)
 
 # DPG FAQ
 - [How to centre (center) text or align text to the right?](https://github.com/hoffstadt/DearPyGui/issues/1111)
