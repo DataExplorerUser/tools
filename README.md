@@ -567,6 +567,7 @@ with dpg.window():
 
 
 # Web frameworks
+- [Python web GUI overview](https://may69.com/purepython/)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Flask](https://github.com/pallets/flask)
 - [Django](https://github.com/django/django)
