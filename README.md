@@ -29,7 +29,7 @@
 - [Trading bot](https://github.com/Gus-The-Forklift-Driver/TradingBotV2)
 - [3D Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion#stable-dreamfusion)
 - [Dreamfields torch](https://github.com/ashawkey/dreamfields-torch)
-- [Trading bot](https://github.com/pattty847/Crypto-Trading-Pairs)
+- [Trade Suite](https://github.com/pattty847/Trade-Suite)
 
 
 # Small DPG apps
