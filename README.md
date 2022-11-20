@@ -89,7 +89,11 @@ High DPI on Windows
 import ctypes
 # Include the following code before showing the viewport/calling `dearpygui.dearpygui.show_viewport`.
 ctypes.windll.shcore.SetProcessDpiAwareness(2)
-# You will likely need to increase the font size of the font you are using if this works. Let me know if it does. 
+# You will likely need to increase the font size of the font when you load it. 
+# On other operating systems, you may want to load the font at double
+# the size and set global scaling at 50%.
+#A nother good source for open source fonts is google.
+https://fonts.google.com/
 ```
 
 Remove the maximize button on Windows
