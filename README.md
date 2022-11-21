@@ -4,6 +4,7 @@
 - [Showcase](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
 - [Issues](https://github.com/hoffstadt/DearPyGui/issues)
 - [Commits](https://github.com/hoffstadt/DearPyGui/commits/master)
+- [Pilot Light](https://github.com/pilot-light/pilotlight)
 - [Stargazers](https://github.com/hoffstadt/DearPyGui/stargazers)
 - [Download stats](https://pepy.tech/project/dearpygui)
 - [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
