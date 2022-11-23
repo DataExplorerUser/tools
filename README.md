@@ -614,7 +614,7 @@ with dpg.window():
 ##  Creating video and GIFs
 - [EasyGif](https://ezgif.com/video-to-gif)
 - ScreenToGif (no audio)
-- ShareX
+- [ShareX](https://getsharex.com/)
 - [OBS](https://obsproject.com/)
 - [VidCutter video editor](https://github.com/ozmartian/vidcutter)
 - [Automatic typing for tutorials](https://github.com/mfitzp/diffcast)
