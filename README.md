@@ -5,6 +5,7 @@
 - [Issues](https://github.com/hoffstadt/DearPyGui/issues)
 - [Commits](https://github.com/hoffstadt/DearPyGui/commits/master)
 - [Pilot Light](https://github.com/pilot-light/pilotlight)
+- [DPG 2](https://github.com/hoffstadt/DearPyGui2)
 - [Stargazers](https://github.com/hoffstadt/DearPyGui/stargazers)
 - [Download stats](https://pepy.tech/project/dearpygui)
 - [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
