@@ -27,12 +27,11 @@
 - [Midi Explorer](https://github.com/EMATech/midiexplorer/)
 - [turnroot tactical RPGs](https://github.com/josephclaytonhansen/turnroot/tree/main/dpg)
 - [Athena Game Library](https://github.com/DirectiveAthena/AthenaDPGLib)
-- [martin_sistemi P1125](https://github.com/sistemicorp)
 - [Trading bot](https://github.com/Gus-The-Forklift-Driver/TradingBotV2)
 - [3D Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion#stable-dreamfusion)
 - [Dreamfields torch](https://github.com/ashawkey/dreamfields-torch)
 - [Trade Suite](https://github.com/pattty847/Trade-Suite)
-- [Turnroot](https://github.com/josephclaytonhansen/turnroot)
+- [Turnroot](https://github.com/josephclaytonhansen/turnroot) - appears to be abondoned
 
 # Small DPG apps
 - [DekaGUI](https://github.com/RavenLabsNH/DekaDynoGUI/issues/3#issuecomment-1225876065) | Demo with data stream with multiprocessing + Matplotib
