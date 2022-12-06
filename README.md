@@ -60,7 +60,6 @@
 # Project ideas
 - Music Quiz app
 - An SVG editor to create code snippets for GitHub
-- A screenshot maker / editor for capturing DPG screenshots
 - DPG examples
 - Data analysis tool with Vaex
 - OpenCV image editor (various blurs and options using sliders, before & after image)
@@ -148,6 +147,27 @@ dpg.configure_app(wait_for_input=True) to only update/render on user input!
 ```Python
 # hide values in a graph, chart, plot
 # just add format="" as an argument
+```
+
+```Python
+# Take screenshots with DPG
+
+import dearpygui.dearpygui as dpg
+
+dpg.create_context()
+dpg.create_viewport(title='Example', width=400, height=400)
+
+def dpg_screenshot():
+    dpg.output_frame_buffer('screenshot.png')
+
+
+with dpg.window(width=200, height=200):
+    dpg.add_button(label='Screenshot', callback=dpg_screenshot)
+
+dpg.setup_dearpygui()
+dpg.show_viewport()
+dpg.start_dearpygui()
+dpg.destroy_context()
 ```
 
 ```python
