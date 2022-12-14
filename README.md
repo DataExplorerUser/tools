@@ -34,6 +34,7 @@
 - [Turnroot](https://github.com/josephclaytonhansen/turnroot) - appears to be abondoned
 
 # Small DPG apps
+- [Slippi](https://github.com/coyote963/slippi-cms)
 - [DekaGUI](https://github.com/RavenLabsNH/DekaDynoGUI/issues/3#issuecomment-1225876065) | Demo with data stream with multiprocessing + Matplotib
 - [Calculator](https://github.com/Fus3n/dpg-calc)
 - [Image to PDF converter](https://gitlab.com/mr-fox-h/FDF)
