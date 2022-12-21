@@ -34,6 +34,8 @@
 - [Turnroot](https://github.com/josephclaytonhansen/turnroot) - appears to be abondoned
 
 # Small DPG apps
+- [DearPyGUI Image Controller](https://github.com/IvanNazaruk/DearPyGui-ImageController) - For loading and deleting textures
+- [Different DimensionMe GUI](https://github.com/IvanNazaruk/DifferentDimensionMe-GUI) - For creating a anime character based on a photo
 - [Slippi](https://github.com/coyote963/slippi-cms)
 - [DekaGUI](https://github.com/RavenLabsNH/DekaDynoGUI/issues/3#issuecomment-1225876065) | Demo with data stream with multiprocessing + Matplotib
 - [Calculator](https://github.com/Fus3n/dpg-calc)
