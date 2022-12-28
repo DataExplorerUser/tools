@@ -296,6 +296,10 @@ with window() as window_auth:
 ```Python
 # I have problem with letters "ёЁ". When I try to write "ё", I get "¸". How can i fix this?
 # support for Ukrainian (cyrillic) characters (to console)
+# https://github.com/hoffstadt/DearPyGui/issues/1674
+# https://github.com/hoffstadt/DearPyGui/issues/1674#issuecomment-1099980125
+# https://discord.com/channels/736279277242417272/852624162396831744/1024400102477013072
+# https://discord.com/channels/736279277242417272/1039591033715044432/1039591033715044432
 
 # chars_remap = {OLD: NEW}
 chars_remap = {0x00A8: 0x0401,  # Ё
@@ -329,6 +333,10 @@ with dpg.window(label="Тест", height=200, width=200):
             else:
                 out.append(instr[i])
         return ''.join(out)
+
+# The table of characters and their values ("strings" within chars_remap) I took from this site:
+# https://unicodemap.org/
+
 ```
 
 ```Python
