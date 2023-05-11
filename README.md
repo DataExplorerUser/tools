@@ -31,7 +31,8 @@
 - [3D Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion#stable-dreamfusion)
 - [Dreamfields torch](https://github.com/ashawkey/dreamfields-torch)
 - [Trade Suite](https://github.com/pattty847/Trade-Suite)
-- [Turnroot](https://github.com/josephclaytonhansen/turnroot) - appears to be abondoned
+- [Turnroot](https://github.com/josephclaytonhansen/turnroot) - appears to be abandoned
+- [CAN explorer](https://github.com/Tbruno25/can-explorer) - dynamic plots
 
 # Small DPG apps
 - [DearPyGUI Image Controller](https://github.com/IvanNazaruk/DearPyGui-ImageController) - For loading and deleting textures
@@ -49,6 +50,8 @@
 - [cForm](https://github.com/ReaseRZ/CForm)
 - [SYSIG](https://github.com/diamant3/SYSIG)
 - [NodiumPy](https://github.com/farzadshayanfar/nodiumpy)
+- [MQTT-chat](https://github.com/anticitizn/mqtt-chat)
+- [Trade suite](https://github.com/pattty847/Trade-Suite)
 
 # DPG FAQ
 - [How to centre (center) text or align text to the right?](https://github.com/hoffstadt/DearPyGui/issues/1111)
