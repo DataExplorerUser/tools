@@ -48,6 +48,7 @@
 - [ez Notes](https://github.com/Brandon82/DPG-ezNotes)
 - [cForm](https://github.com/ReaseRZ/CForm)
 - [SYSIG](https://github.com/diamant3/SYSIG)
+- [NodiumPy](https://github.com/farzadshayanfar/nodiumpy)
 
 # DPG FAQ
 - [How to centre (center) text or align text to the right?](https://github.com/hoffstadt/DearPyGui/issues/1111)
