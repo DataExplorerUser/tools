@@ -25,13 +25,11 @@
 
 - [Game of life - High DPI](https://github.com/DataExplorerUser/game_of_life_high_DPI)
 - [Midi Explorer](https://github.com/EMATech/midiexplorer/)
-- [turnroot tactical RPGs](https://github.com/josephclaytonhansen/turnroot/tree/main/dpg)
 - [Athena Game Library](https://github.com/DirectiveAthena/AthenaDPGLib)
 - [Trading bot](https://github.com/Gus-The-Forklift-Driver/TradingBotV2)
 - [3D Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion#stable-dreamfusion)
 - [Dreamfields torch](https://github.com/ashawkey/dreamfields-torch)
 - [Trade Suite](https://github.com/pattty847/Trade-Suite)
-- [Turnroot](https://github.com/josephclaytonhansen/turnroot) - appears to be abandoned
 - [CAN explorer](https://github.com/Tbruno25/can-explorer) - dynamic plots
 
 # Small DPG apps
