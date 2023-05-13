@@ -37,6 +37,7 @@
 - [Different DimensionMe GUI](https://github.com/IvanNazaruk/DifferentDimensionMe-GUI) - For creating a anime character based on a photo
 - [Slippi](https://github.com/coyote963/slippi-cms)
 - [DekaGUI](https://github.com/RavenLabsNH/DekaDynoGUI/issues/3#issuecomment-1225876065) | Demo with data stream with multiprocessing + Matplotib
+- [DearPyMap](https://github.com/mkouhia/dearpygui-map)
 - [Calculator](https://github.com/Fus3n/dpg-calc)
 - [Image to PDF converter](https://gitlab.com/mr-fox-h/FDF)
 - [Lens simulation](https://github.com/yslib/Cameray)
