@@ -36,6 +36,7 @@
 - [CAN explorer](https://github.com/Tbruno25/can-explorer) - dynamic plots
 
 # Small DPG apps
+- [zTEXiPy](https://gitlab.com/Shoun2137/ztexipy)
 - [DearPyGUI Image Controller](https://github.com/IvanNazaruk/DearPyGui-ImageController) - For loading and deleting textures
 - [Different DimensionMe GUI](https://github.com/IvanNazaruk/DifferentDimensionMe-GUI) - For creating a anime character based on a photo
 - [Slippi](https://github.com/coyote963/slippi-cms)
