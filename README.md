@@ -1,5 +1,8 @@
 # Tools and software
 
+# Is it DPG?
+- [DragCAN](https://github.com/XingangPan/DragGAN) -- Code will be released in June. If DPG, add to showcase.
+
 # Dear PyGui resources
 - [Showcase](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
 - [Issues](https://github.com/hoffstadt/DearPyGui/issues)
