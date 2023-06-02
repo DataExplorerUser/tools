@@ -14,6 +14,7 @@
 - [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
 - [DPG EXT](https://pypi.org/project/dearpygui-ext/)
 - [demo.py code](https://github.com/hoffstadt/DearPyGui/blob/master/DearPyGui/dearpygui/demo.py)
+- [Examples by my1e5](https://github.com/my1e5/dpg-examples) | includes Tensor's date picker
 - [Examples by Another Alex](https://github.com/yet-another-alex/dearpygui-examples)
 - [Examples by Illu](https://github.com/Mstpyt/DPG-Examples)
 - [Examples by Preston incl. OpenCV](https://github.com/Pcothren/DearPyGui-Examples)
