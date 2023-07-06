@@ -1,8 +1,5 @@
 # Tools and software
 
-# Is it DPG?
-- [DragCAN](https://github.com/XingangPan/DragGAN) -- Code will be released in June. If DPG, add to showcase.
-
 # Dear PyGui resources
 - [Showcase](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
 - [Issues](https://github.com/hoffstadt/DearPyGui/issues)
@@ -37,6 +34,7 @@
 - [CAN explorer](https://github.com/Tbruno25/can-explorer) - dynamic plots
 
 # Small DPG apps
+- [Drag and drop from Desktop](https://github.com/IvanNazaruk/DearPyGui-DragAndDrop)
 - [Ticket system](https://github.com/xrcyz/dpg-swisscontrols) - Listbox, checkbox rearrange
 - [zTEXiPy](https://gitlab.com/Shoun2137/ztexipy)
 - [DearPyGUI Image Controller](https://github.com/IvanNazaruk/DearPyGui-ImageController) - For loading and deleting textures
