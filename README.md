@@ -22,6 +22,9 @@
 - [RMP Reddit](https://www.reddit.com/r/Python/comments/sp7ddv/my_first_project_raccoon_music_player_cute/)
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
+# Showcase to be added
+- [FlowTutor](https://github.com/thomasroessl/FlowTutor)
+
 # DPG apps
 
 - [Game of life - High DPI](https://github.com/DataExplorerUser/game_of_life_high_DPI)
