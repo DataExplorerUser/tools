@@ -27,6 +27,7 @@
 
 # DPG apps
 
+- [File encryption app](https://github.com/70sh1/Vaultea)
 - [Game of life - High DPI](https://github.com/DataExplorerUser/game_of_life_high_DPI)
 - [Midi Explorer](https://github.com/EMATech/midiexplorer/)
 - [Athena Game Library](https://github.com/DirectiveAthena/AthenaDPGLib)
