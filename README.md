@@ -23,7 +23,6 @@
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
 # Showcase to be added
-- [FlowTutor](https://github.com/thomasroessl/FlowTutor)
 
 # DPG apps
 
