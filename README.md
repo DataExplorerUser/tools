@@ -34,7 +34,7 @@
 - [3D Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion#stable-dreamfusion)
 - [Dreamfields torch](https://github.com/ashawkey/dreamfields-torch)
 - [Trade Suite](https://github.com/pattty847/Trade-Suite)
-- [CAN explorer](https://github.com/Tbruno25/can-explorer) - dynamic plots
+- [Mimir](https://github.com/Appelsiini1/Mimir) - managing programming assignments (master thesis) 
 
 # Small DPG apps
 - [Drag and drop from Desktop](https://github.com/IvanNazaruk/DearPyGui-DragAndDrop)
