@@ -719,6 +719,7 @@ with dpg.window():
 # Fonts
 - [Google fonts](https://fonts.google.com/)
 - [Monospace fonts](https://ianyepan.github.io/posts/system-default-monospace-fonts-pt2/)
+- [Microns Icon Font](https://www.s-ings.com/projects/microns-icon-font/) - Fonts for using in buttons, such as a play and pause icons.
 
 
 # Social media
