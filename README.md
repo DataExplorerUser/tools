@@ -26,26 +26,18 @@
 
 # DPG apps
 
-- [File encryption app](https://github.com/70sh1/Vaultea)
 - [Game of life - High DPI](https://github.com/DataExplorerUser/game_of_life_high_DPI)
 - [Midi Explorer](https://github.com/EMATech/midiexplorer/)
-- [Athena Game Library](https://github.com/DirectiveAthena/AthenaDPGLib)
 - [Trading bot](https://github.com/Gus-The-Forklift-Driver/TradingBotV2)
 - [3D Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion#stable-dreamfusion)
 - [Dreamfields torch](https://github.com/ashawkey/dreamfields-torch)
-- [Trade Suite](https://github.com/pattty847/Trade-Suite)
 - [Mimir](https://github.com/Appelsiini1/Mimir) - managing programming assignments (master thesis) 
 
 # Small DPG apps
-- [Drag and drop from Desktop](https://github.com/IvanNazaruk/DearPyGui-DragAndDrop)
-- [Ticket system](https://github.com/xrcyz/dpg-swisscontrols) - Listbox, checkbox rearrange
 - [zTEXiPy](https://gitlab.com/Shoun2137/ztexipy)
-- [DearPyGUI Image Controller](https://github.com/IvanNazaruk/DearPyGui-ImageController) - For loading and deleting textures
 - [Different DimensionMe GUI](https://github.com/IvanNazaruk/DifferentDimensionMe-GUI) - For creating a anime character based on a photo
-- [Slippi](https://github.com/coyote963/slippi-cms)
 - [DekaGUI](https://github.com/RavenLabsNH/DekaDynoGUI/issues/3#issuecomment-1225876065) | Demo with data stream with multiprocessing + Matplotib
 - [DearPyMap](https://github.com/mkouhia/dearpygui-map)
-- [Calculator](https://github.com/Fus3n/dpg-calc)
 - [Image to PDF converter](https://gitlab.com/mr-fox-h/FDF)
 - [Lens simulation](https://github.com/yslib/Cameray)
 - [Algorithm visualiser](https://github.com/Anurag-gg/Algorithm-visualizer)
