@@ -35,8 +35,6 @@
 
 # Small DPG apps
 - [zTEXiPy](https://gitlab.com/Shoun2137/ztexipy)
-- [Different DimensionMe GUI](https://github.com/IvanNazaruk/DifferentDimensionMe-GUI) - For creating a anime character based on a photo
-- [DekaGUI](https://github.com/RavenLabsNH/DekaDynoGUI/issues/3#issuecomment-1225876065) | Demo with data stream with multiprocessing + Matplotib
 - [DearPyMap](https://github.com/mkouhia/dearpygui-map)
 - [Image to PDF converter](https://gitlab.com/mr-fox-h/FDF)
 - [Lens simulation](https://github.com/yslib/Cameray)
