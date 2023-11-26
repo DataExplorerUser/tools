@@ -2,6 +2,7 @@
 
 # Dear PyGui resources
 - [Showcase](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
+- [Tools and widgets](https://github.com/hoffstadt/DearPyGui/wiki/Tools-and-Widgets)
 - [Issues](https://github.com/hoffstadt/DearPyGui/issues)
 - [Commits](https://github.com/hoffstadt/DearPyGui/commits/master)
 - [Pilot Light](https://github.com/pilot-light/pilotlight)
