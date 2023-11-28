@@ -645,7 +645,7 @@ with dpg.window():
 
 ##  Creating video and GIFs
 - [EZGif](https://ezgif.com/video-to-gif) for converting MP4 to GIF, trimming and resizing GIF. Output size options are OK, but limited. 
-- ScreenToGif (no audio)
+- [ScreenToGif (no audio)](https://www.screentogif.com/)
 - [ShareX](https://getsharex.com/)
 - [OBS](https://obsproject.com/)
 - [VidCutter video editor](https://github.com/ozmartian/vidcutter)
