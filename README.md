@@ -28,6 +28,7 @@
 # DPG apps
 
 - [YT FetchAudio](https://github.com/yuuushio/YT-FetchAudio)
+- [YT video and audio downloader](https://github.com/Kubiniet/CTDownloader)
 - [Node editor for AI models](https://github.com/bmolab/dpg_system)
 - [Game of life - High DPI](https://github.com/DataExplorerUser/game_of_life_high_DPI)
 - [Midi Explorer](https://github.com/EMATech/midiexplorer/)
