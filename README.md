@@ -36,7 +36,8 @@
 - [Trading bot](https://github.com/Gus-The-Forklift-Driver/TradingBotV2)
 - [3D Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion#stable-dreamfusion)
 - [Dreamfields torch](https://github.com/ashawkey/dreamfields-torch)
-- [Mimir](https://github.com/Appelsiini1/Mimir) - managing programming assignments (master thesis) 
+- [Mimir](https://github.com/Appelsiini1/Mimir) - managing programming assignments (master thesis)
+- [Chinese font](https://github.com/ddddhm1234/dearpygui_trick/blob/main/dearpygui_trick.py)
 
 # Small DPG apps
 - [zTEXiPy](https://gitlab.com/Shoun2137/ztexipy)
