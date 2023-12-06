@@ -27,6 +27,7 @@
 
 # DPG apps
 
+- [YT FetchAudio](https://github.com/yuuushio/YT-FetchAudio)
 - [Game of life - High DPI](https://github.com/DataExplorerUser/game_of_life_high_DPI)
 - [Midi Explorer](https://github.com/EMATech/midiexplorer/)
 - [Trading bot](https://github.com/Gus-The-Forklift-Driver/TradingBotV2)
