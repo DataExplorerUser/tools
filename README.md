@@ -52,8 +52,8 @@
 - [cForm](https://github.com/ReaseRZ/CForm)
 - [SYSIG](https://github.com/diamant3/SYSIG)
 - [NodiumPy](https://github.com/farzadshayanfar/nodiumpy)
-- [MQTT-chat](https://github.com/anticitizn/mqtt-chat)
 - [Trade suite](https://github.com/pattty847/Trade-Suite)
+- [Fractal drawing](https://github.com/alexanderustinov/dearpygui_drawings)
 
 # DPG FAQ
 - [How to centre (center) text or align text to the right?](https://github.com/hoffstadt/DearPyGui/issues/1111)
