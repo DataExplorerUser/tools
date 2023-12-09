@@ -24,7 +24,8 @@
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
 # Showcase to be added
-
+- [File Dialogue](https://github.com/totallynotdrait/file_dialog)
+  
 # DPG apps
 
 - [YT FetchAudio](https://github.com/yuuushio/YT-FetchAudio)
