@@ -2,6 +2,8 @@
 
 # Dear PyGui resources
 - [Showcase](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
+- [Tag DPG GitHub](https://github.com/topics/dearpygui?o=desc&s=updated)
+- [Search DPG GitHub](https://github.com/search?q=dearpygui&type=repositories&s=updated&o=desc)
 - [Tools and widgets](https://github.com/hoffstadt/DearPyGui/wiki/Tools-and-Widgets)
 - [Issues](https://github.com/hoffstadt/DearPyGui/issues)
 - [Commits](https://github.com/hoffstadt/DearPyGui/commits/master)
