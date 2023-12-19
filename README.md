@@ -26,7 +26,8 @@
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
 # Showcase to be added
-
+- [colored words](https://github.com/DataExplorerUser/coloured_words)
+  
 # DPG apps
 
 - [YT FetchAudio](https://github.com/yuuushio/YT-FetchAudio)
