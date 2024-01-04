@@ -26,7 +26,7 @@
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
 # GitHub Pages
-- [GitHub Page Index](https://dataexploreruser.github.io/
+- [GitHub Page Index](https://dataexploreruser.github.io/)
 - [Pages Editor](https://github.dev/DataExplorerUser/DataExplorerUser.github.io/blob/main/index.html)
 
 - 
