@@ -25,6 +25,11 @@
 - [RMP Reddit](https://www.reddit.com/r/Python/comments/sp7ddv/my_first_project_raccoon_music_player_cute/)
 - [Pixl engine](https://github.com/Atlamillias/dearpypixl)
 
+# GitHub Pages
+- [GitHub Page Index](https://dataexploreruser.github.io/
+- [Pages Editor](https://github.dev/DataExplorerUser/DataExplorerUser.github.io/blob/main/index.html)
+
+- 
 # Showcase to be added
 - [colored words](https://github.com/DataExplorerUser/coloured_words)
 - [Streaming digital human, realize audio video synchronous dialogue]([https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py](https://github.com/lipku/metahuman-stream/)) | [GUI](https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py)
