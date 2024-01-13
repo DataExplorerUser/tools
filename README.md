@@ -15,7 +15,6 @@
 - [DPG EXT](https://pypi.org/project/dearpygui-ext/)
 - [demo.py code](https://github.com/hoffstadt/DearPyGui/blob/master/DearPyGui/dearpygui/demo.py)
 - [Examples by my1e5](https://github.com/my1e5/dpg-examples) | includes Tensor's [date picker](https://github.com/my1e5/dpg-examples/blob/45543aff58e8c864dbb239ce693b37779495b2df/misc/date_picker.py)
-- [Examples by Another Alex](https://github.com/yet-another-alex/dearpygui-examples)
 - [Examples by Illu](https://github.com/Mstpyt/DPG-Examples)
 - [Examples by Preston incl. OpenCV](https://github.com/Pcothren/DearPyGui-Examples)
 - [Discord](https://discord.gg/tyE7Gu4)
@@ -30,7 +29,6 @@
 - [Pages Editor](https://github.dev/DataExplorerUser/DataExplorerUser.github.io/blob/main/index.html)
 
 # Showcase to be added
-- [colored words](https://github.com/DataExplorerUser/coloured_words)
 - [Streaming digital human, realize audio video synchronous dialogue]([https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py](https://github.com/lipku/metahuman-stream/)) | [GUI](https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py)
   
 # DPG apps
