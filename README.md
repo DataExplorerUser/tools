@@ -30,6 +30,7 @@
 
 # Showcase to be added
 - [Streaming digital human, realize audio video synchronous dialogue]([https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py](https://github.com/lipku/metahuman-stream/)) | [GUI](https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py)
+- https://github.com/fabriciochamon/VML_Streamer
   
 # DPG apps
 
