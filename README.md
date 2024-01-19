@@ -30,6 +30,8 @@
 
 # Showcase to be added
 - [Streaming digital human, realize audio video synchronous dialogue]([https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py](https://github.com/lipku/metahuman-stream/)) | [GUI](https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py)
+- [NodiumPy](https://github.com/farzadshayanfar/nodiumpy)
+- [DearPyMap](https://github.com/mkouhia/dearpygui-map)
   
 # DPG apps
 
@@ -47,7 +49,6 @@
 
 # Small DPG apps
 - [zTEXiPy](https://gitlab.com/Shoun2137/ztexipy)
-- [DearPyMap](https://github.com/mkouhia/dearpygui-map)
 - [Image to PDF converter](https://gitlab.com/mr-fox-h/FDF)
 - [Lens simulation](https://github.com/yslib/Cameray)
 - [Algorithm visualiser](https://github.com/Anurag-gg/Algorithm-visualizer)
@@ -57,7 +58,6 @@
 - [ez Notes](https://github.com/Brandon82/DPG-ezNotes)
 - [cForm](https://github.com/ReaseRZ/CForm)
 - [SYSIG](https://github.com/diamant3/SYSIG)
-- [NodiumPy](https://github.com/farzadshayanfar/nodiumpy)
 - [Trade suite](https://github.com/pattty847/Trade-Suite)
 - [Fractal drawing](https://github.com/alexanderustinov/dearpygui_drawings)
 
@@ -66,7 +66,6 @@
 - [Programmatically change the active tab](https://github.com/hoffstadt/DearPyGui/discussions/1582)
 - [Example using threading, Asyncio, multiprocessing](https://github.com/fIux-dev/froyo/blob/f4a4a88b8f4cc910ecd9896aabacd5b71e3a76bd/source/engine.py)
 - [Alternative file picker/browser dialogue | xdialog](https://github.com/xMGZx/xdialog)
-- [Coloured words in one sentence example](https://github.com/DataExplorerUser/coloured_words)
 - [Sistemi DPG code patterms](https://github.com/sistemicorp/b13-DPG_Code_patterns)
 - [Drag and drop Project mgt](https://github.com/Mstpyt/DPG-Examples/blob/main/drag_and_drop_project_chart.py)
 - [Searchable tag record](https://github.com/sharkbound/pythontools/tree/master/examples/dearpyguiapps/index_ui)
