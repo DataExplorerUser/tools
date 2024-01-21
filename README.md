@@ -31,8 +31,7 @@
 # Showcase to be added
 - [Streaming digital human, realize audio video synchronous dialogue]([https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py](https://github.com/lipku/metahuman-stream/)) | [GUI](https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py)
 - [NodiumPy](https://github.com/farzadshayanfar/nodiumpy)
-- [DearPyMap](https://github.com/mkouhia/dearpygui-map)
-  
+
 # DPG apps
 
 - [YT FetchAudio](https://github.com/yuuushio/YT-FetchAudio)
