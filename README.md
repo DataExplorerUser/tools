@@ -67,6 +67,7 @@
 - [Sistemi DPG code patterms](https://github.com/sistemicorp/b13-DPG_Code_patterns)
 - [Drag and drop Project mgt](https://github.com/Mstpyt/DPG-Examples/blob/main/drag_and_drop_project_chart.py)
 - [Searchable tag record](https://github.com/sharkbound/pythontools/tree/master/examples/dearpyguiapps/index_ui)
+- [Node editor drag and drop - V-Ein](https://github.com/hoffstadt/DearPyGui/issues/2164#issuecomment-1808780217)
 
 
 # Project ideas
