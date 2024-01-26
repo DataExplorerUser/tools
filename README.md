@@ -29,8 +29,8 @@
 - [Pages Editor](https://github.dev/DataExplorerUser/DataExplorerUser.github.io/blob/main/index.html)
 
 # Showcase to be added
-- [Streaming digital human, realize audio video synchronous dialogue]([https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py](https://github.com/lipku/metahuman-stream/)) | [GUI](https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py)
 - https://github.com/bmolab/dpg_system
+- [Node editor drag and drop](https://github.com/hoffstadt/DearPyGui/issues/2164#issuecomment-1808780217)
 
 # DPG apps
 
@@ -45,6 +45,7 @@
 - [Dreamfields torch](https://github.com/ashawkey/dreamfields-torch)
 - [Mimir](https://github.com/Appelsiini1/Mimir) - managing programming assignments (master thesis)
 - [Chinese font](https://github.com/ddddhm1234/dearpygui_trick/blob/main/dearpygui_trick.py)
+- [Streaming digital human, realize audio video synchronous dialogue]([https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py](https://github.com/lipku/metahuman-stream/)) | [GUI](https://github.com/lipku/metahuman-stream/blob/main/nerf_triplane/gui.py)
 
 # Small DPG apps
 - [zTEXiPy](https://gitlab.com/Shoun2137/ztexipy)
