@@ -31,6 +31,7 @@
 # Showcase to be added
 - https://github.com/bmolab/dpg_system
 - [Node editor drag and drop](https://github.com/hoffstadt/DearPyGui/issues/2164#issuecomment-1808780217)
+- Add citation instructions, see https://github.com/zauberzeug/nicegui/blob/main/CITATION.cff
 
 # DPG apps
 
