@@ -7,7 +7,7 @@
 - [Tools and widgets](https://github.com/hoffstadt/DearPyGui/wiki/Tools-and-Widgets)
 - [Issues](https://github.com/hoffstadt/DearPyGui/issues)
 - [Commits](https://github.com/hoffstadt/DearPyGui/commits/master)
-- [Pilot Light](https://github.com/pilot-light/pilotlight)
+- [Pilot Light](https://github.com/PilotLightTech/pilotlight)
 - [DPG 2](https://github.com/hoffstadt/DearPyGui2)
 - [Stargazers](https://github.com/hoffstadt/DearPyGui/stargazers)
 - [Download stats](https://pepy.tech/project/dearpygui)
